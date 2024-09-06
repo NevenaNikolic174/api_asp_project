@@ -1,0 +1,2285 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nena\\source\\repos\\MyProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3FB4B312-819A-44E7-BDA2-C86302FC3012}|MyProject.Domain\\MyProject.Domain.csproj|c:\\users\\nena\\source\\repos\\myproject\\myproject.domain\\entities\\auditlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FB4B312-819A-44E7-BDA2-C86302FC3012}|MyProject.Domain\\MyProject.Domain.csproj|solutionrelative:myproject.domain\\entities\\auditlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10BF4025-9C90-4688-905F-3F4A911F9E7C}|MyProject\\MyProject.Api.csproj|c:\\users\\nena\\source\\repos\\myproject\\myproject\\controllers\\auditlogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10BF4025-9C90-4688-905F-3F4A911F9E7C}|MyProject\\MyProject.Api.csproj|solutionrelative:myproject\\controllers\\auditlogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10BF4025-9C90-4688-905F-3F4A911F9E7C}|MyProject\\MyProject.Api.csproj|c:\\users\\nena\\source\\repos\\myproject\\myproject\\core\\auditlogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10BF4025-9C90-4688-905F-3F4A911F9E7C}|MyProject\\MyProject.Api.csproj|solutionrelative:myproject\\core\\auditlogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{460BAD09-5A1F-4CA9-8740-063217C4C3D6}|MyProject.DataAccess\\MyProject.DataAccess.csproj|c:\\users\\nena\\source\\repos\\myproject\\myproject.dataaccess\\configurations\\auditlogconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{460BAD09-5A1F-4CA9-8740-063217C4C3D6}|MyProject.DataAccess\\MyProject.DataAccess.csproj|solutionrelative:myproject.dataaccess\\configurations\\auditlogconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36125015-C842-4892-B84B-172EBB1CD271}|MyProject.Implementation\\MyProject.Implementation.csproj|c:\\users\\nena\\source\\repos\\myproject\\myproject.implementation\\usecases\\efusercreatecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36125015-C842-4892-B84B-172EBB1CD271}|MyProject.Implementation\\MyProject.Implementation.csproj|solutionrelative:myproject.implementation\\usecases\\efusercreatecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36125015-C842-4892-B84B-172EBB1CD271}|MyProject.Implementation\\MyProject.Implementation.csproj|c:\\users\\nena\\source\\repos\\myproject\\myproject.implementation\\usecases\\efusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36125015-C842-4892-B84B-172EBB1CD271}|MyProject.Implementation\\MyProject.Implementation.csproj|solutionrelative:myproject.implementation\\usecases\\efusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36125015-C842-4892-B84B-172EBB1CD271}|MyProject.Implementation\\MyProject.Implementation.csproj|c:\\users\\nena\\source\\repos\\myproject\\myproject.implementation\\logging\\dbusecaselogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36125015-C842-4892-B84B-172EBB1CD271}|MyProject.Implementation\\MyProject.Implementation.csproj|solutionrelative:myproject.implementation\\logging\\dbusecaselogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36125015-C842-4892-B84B-172EBB1CD271}|MyProject.Implementation\\MyProject.Implementation.csproj|c:\\users\\nena\\source\\repos\\myproject\\myproject.implementation\\exceptions\\wrongcredentialsexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36125015-C842-4892-B84B-172EBB1CD271}|MyProject.Implementation\\MyProject.Implementation.csproj|solutionrelative:myproject.implementation\\exceptions\\wrongcredentialsexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36125015-C842-4892-B84B-172EBB1CD271}|MyProject.Implementation\\MyProject.Implementation.csproj|c:\\users\\nena\\source\\repos\\myproject\\myproject.implementation\\exceptions\\unauthorizedexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36125015-C842-4892-B84B-172EBB1CD271}|MyProject.Implementation\\MyProject.Implementation.csproj|solutionrelative:myproject.implementation\\exceptions\\unauthorizedexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1FFFE4F-F24B-49D1-B198-B457B2BCE8C0}|MyProject.Application\\MyProject.Application.csproj|c:\\users\\nena\\source\\repos\\myproject\\myproject.application\\usecases\\icommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1FFFE4F-F24B-49D1-B198-B457B2BCE8C0}|MyProject.Application\\MyProject.Application.csproj|solutionrelative:myproject.application\\usecases\\icommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1FFFE4F-F24B-49D1-B198-B457B2BCE8C0}|MyProject.Application\\MyProject.Application.csproj|c:\\users\\nena\\source\\repos\\myproject\\myproject.application\\email\\smtpemailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1FFFE4F-F24B-49D1-B198-B457B2BCE8C0}|MyProject.Application\\MyProject.Application.csproj|solutionrelative:myproject.application\\email\\smtpemailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1FFFE4F-F24B-49D1-B198-B457B2BCE8C0}|MyProject.Application\\MyProject.Application.csproj|c:\\users\\nena\\source\\repos\\myproject\\myproject.application\\email\\iemailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1FFFE4F-F24B-49D1-B198-B457B2BCE8C0}|MyProject.Application\\MyProject.Application.csproj|solutionrelative:myproject.application\\email\\iemailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36125015-C842-4892-B84B-172EBB1CD271}|MyProject.Implementation\\MyProject.Implementation.csproj|c:\\users\\nena\\source\\repos\\myproject\\myproject.implementation\\validators\\createproductrestaurantvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36125015-C842-4892-B84B-172EBB1CD271}|MyProject.Implementation\\MyProject.Implementation.csproj|solutionrelative:myproject.implementation\\validators\\createproductrestaurantvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1FFFE4F-F24B-49D1-B198-B457B2BCE8C0}|MyProject.Application\\MyProject.Application.csproj|c:\\users\\nena\\source\\repos\\myproject\\myproject.application\\dto\\searchentities\\searchproductsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1FFFE4F-F24B-49D1-B198-B457B2BCE8C0}|MyProject.Application\\MyProject.Application.csproj|solutionrelative:myproject.application\\dto\\searchentities\\searchproductsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1FFFE4F-F24B-49D1-B198-B457B2BCE8C0}|MyProject.Application\\MyProject.Application.csproj|c:\\users\\nena\\source\\repos\\myproject\\myproject.application\\dto\\searchentities\\searchcartitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1FFFE4F-F24B-49D1-B198-B457B2BCE8C0}|MyProject.Application\\MyProject.Application.csproj|solutionrelative:myproject.application\\dto\\searchentities\\searchcartitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1FFFE4F-F24B-49D1-B198-B457B2BCE8C0}|MyProject.Application\\MyProject.Application.csproj|c:\\users\\nena\\source\\repos\\myproject\\myproject.application\\dto\\searchentities\\searchbynamedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1FFFE4F-F24B-49D1-B198-B457B2BCE8C0}|MyProject.Application\\MyProject.Application.csproj|solutionrelative:myproject.application\\dto\\searchentities\\searchbynamedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10BF4025-9C90-4688-905F-3F4A911F9E7C}|MyProject\\MyProject.Api.csproj|c:\\users\\nena\\source\\repos\\myproject\\myproject\\controllers\\producercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10BF4025-9C90-4688-905F-3F4A911F9E7C}|MyProject\\MyProject.Api.csproj|solutionrelative:myproject\\controllers\\producercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1FFFE4F-F24B-49D1-B198-B457B2BCE8C0}|MyProject.Application\\MyProject.Application.csproj|c:\\users\\nena\\source\\repos\\myproject\\myproject.application\\dto\\searchentities\\searchbyvaluedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1FFFE4F-F24B-49D1-B198-B457B2BCE8C0}|MyProject.Application\\MyProject.Application.csproj|solutionrelative:myproject.application\\dto\\searchentities\\searchbyvaluedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10BF4025-9C90-4688-905F-3F4A911F9E7C}|MyProject\\MyProject.Api.csproj|c:\\users\\nena\\source\\repos\\myproject\\myproject\\controllers\\statuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10BF4025-9C90-4688-905F-3F4A911F9E7C}|MyProject\\MyProject.Api.csproj|solutionrelative:myproject\\controllers\\statuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1FFFE4F-F24B-49D1-B198-B457B2BCE8C0}|MyProject.Application\\MyProject.Application.csproj|c:\\users\\nena\\source\\repos\\myproject\\myproject.application\\dto\\searchentities\\searchbypaymentmethoddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1FFFE4F-F24B-49D1-B198-B457B2BCE8C0}|MyProject.Application\\MyProject.Application.csproj|solutionrelative:myproject.application\\dto\\searchentities\\searchbypaymentmethoddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1FFFE4F-F24B-49D1-B198-B457B2BCE8C0}|MyProject.Application\\MyProject.Application.csproj|c:\\users\\nena\\source\\repos\\myproject\\myproject.application\\dto\\paymentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1FFFE4F-F24B-49D1-B198-B457B2BCE8C0}|MyProject.Application\\MyProject.Application.csproj|solutionrelative:myproject.application\\dto\\paymentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1FFFE4F-F24B-49D1-B198-B457B2BCE8C0}|MyProject.Application\\MyProject.Application.csproj|c:\\users\\nena\\source\\repos\\myproject\\myproject.application\\dto\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1FFFE4F-F24B-49D1-B198-B457B2BCE8C0}|MyProject.Application\\MyProject.Application.csproj|solutionrelative:myproject.application\\dto\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10BF4025-9C90-4688-905F-3F4A911F9E7C}|MyProject\\MyProject.Api.csproj|c:\\users\\nena\\source\\repos\\myproject\\myproject\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10BF4025-9C90-4688-905F-3F4A911F9E7C}|MyProject\\MyProject.Api.csproj|solutionrelative:myproject\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FB4B312-819A-44E7-BDA2-C86302FC3012}|MyProject.Domain\\MyProject.Domain.csproj|c:\\users\\nena\\source\\repos\\myproject\\myproject.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FB4B312-819A-44E7-BDA2-C86302FC3012}|MyProject.Domain\\MyProject.Domain.csproj|solutionrelative:myproject.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1FFFE4F-F24B-49D1-B198-B457B2BCE8C0}|MyProject.Application\\MyProject.Application.csproj|c:\\users\\nena\\source\\repos\\myproject\\myproject.application\\dto\\statusdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1FFFE4F-F24B-49D1-B198-B457B2BCE8C0}|MyProject.Application\\MyProject.Application.csproj|solutionrelative:myproject.application\\dto\\statusdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1FFFE4F-F24B-49D1-B198-B457B2BCE8C0}|MyProject.Application\\MyProject.Application.csproj|c:\\users\\nena\\source\\repos\\myproject\\myproject.application\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1FFFE4F-F24B-49D1-B198-B457B2BCE8C0}|MyProject.Application\\MyProject.Application.csproj|solutionrelative:myproject.application\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1FFFE4F-F24B-49D1-B198-B457B2BCE8C0}|MyProject.Application\\MyProject.Application.csproj|c:\\users\\nena\\source\\repos\\myproject\\myproject.application\\dto\\restaurantdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1FFFE4F-F24B-49D1-B198-B457B2BCE8C0}|MyProject.Application\\MyProject.Application.csproj|solutionrelative:myproject.application\\dto\\restaurantdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1FFFE4F-F24B-49D1-B198-B457B2BCE8C0}|MyProject.Application\\MyProject.Application.csproj|c:\\users\\nena\\source\\repos\\myproject\\myproject.application\\dto\\productrestaurantdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1FFFE4F-F24B-49D1-B198-B457B2BCE8C0}|MyProject.Application\\MyProject.Application.csproj|solutionrelative:myproject.application\\dto\\productrestaurantdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1FFFE4F-F24B-49D1-B198-B457B2BCE8C0}|MyProject.Application\\MyProject.Application.csproj|c:\\users\\nena\\source\\repos\\myproject\\myproject.application\\dto\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1FFFE4F-F24B-49D1-B198-B457B2BCE8C0}|MyProject.Application\\MyProject.Application.csproj|solutionrelative:myproject.application\\dto\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1FFFE4F-F24B-49D1-B198-B457B2BCE8C0}|MyProject.Application\\MyProject.Application.csproj|c:\\users\\nena\\source\\repos\\myproject\\myproject.application\\dto\\producerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1FFFE4F-F24B-49D1-B198-B457B2BCE8C0}|MyProject.Application\\MyProject.Application.csproj|solutionrelative:myproject.application\\dto\\producerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1FFFE4F-F24B-49D1-B198-B457B2BCE8C0}|MyProject.Application\\MyProject.Application.csproj|c:\\users\\nena\\source\\repos\\myproject\\myproject.application\\dto\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1FFFE4F-F24B-49D1-B198-B457B2BCE8C0}|MyProject.Application\\MyProject.Application.csproj|solutionrelative:myproject.application\\dto\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1FFFE4F-F24B-49D1-B198-B457B2BCE8C0}|MyProject.Application\\MyProject.Application.csproj|c:\\users\\nena\\source\\repos\\myproject\\myproject.application\\dto\\cartdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1FFFE4F-F24B-49D1-B198-B457B2BCE8C0}|MyProject.Application\\MyProject.Application.csproj|solutionrelative:myproject.application\\dto\\cartdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10BF4025-9C90-4688-905F-3F4A911F9E7C}|MyProject\\MyProject.Api.csproj|c:\\users\\nena\\source\\repos\\myproject\\myproject\\dto\\authrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10BF4025-9C90-4688-905F-3F4A911F9E7C}|MyProject\\MyProject.Api.csproj|solutionrelative:myproject\\dto\\authrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10BF4025-9C90-4688-905F-3F4A911F9E7C}|MyProject\\MyProject.Api.csproj|c:\\users\\nena\\source\\repos\\myproject\\myproject\\handlers\\carthandler\\updatecarthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10BF4025-9C90-4688-905F-3F4A911F9E7C}|MyProject\\MyProject.Api.csproj|solutionrelative:myproject\\handlers\\carthandler\\updatecarthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10BF4025-9C90-4688-905F-3F4A911F9E7C}|MyProject\\MyProject.Api.csproj|c:\\users\\nena\\source\\repos\\myproject\\myproject\\handlers\\carthandler\\getallcartitemshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10BF4025-9C90-4688-905F-3F4A911F9E7C}|MyProject\\MyProject.Api.csproj|solutionrelative:myproject\\handlers\\carthandler\\getallcartitemshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10BF4025-9C90-4688-905F-3F4A911F9E7C}|MyProject\\MyProject.Api.csproj|c:\\users\\nena\\source\\repos\\myproject\\myproject\\handlers\\carthandler\\deletecarthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10BF4025-9C90-4688-905F-3F4A911F9E7C}|MyProject\\MyProject.Api.csproj|solutionrelative:myproject\\handlers\\carthandler\\deletecarthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10BF4025-9C90-4688-905F-3F4A911F9E7C}|MyProject\\MyProject.Api.csproj|c:\\users\\nena\\source\\repos\\myproject\\myproject\\handlers\\carthandler\\createcarthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10BF4025-9C90-4688-905F-3F4A911F9E7C}|MyProject\\MyProject.Api.csproj|solutionrelative:myproject\\handlers\\carthandler\\createcarthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10BF4025-9C90-4688-905F-3F4A911F9E7C}|MyProject\\MyProject.Api.csproj|c:\\users\\nena\\source\\repos\\myproject\\myproject\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10BF4025-9C90-4688-905F-3F4A911F9E7C}|MyProject\\MyProject.Api.csproj|solutionrelative:myproject\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10BF4025-9C90-4688-905F-3F4A911F9E7C}|MyProject\\MyProject.Api.csproj|c:\\users\\nena\\source\\repos\\myproject\\myproject\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10BF4025-9C90-4688-905F-3F4A911F9E7C}|MyProject\\MyProject.Api.csproj|solutionrelative:myproject\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36125015-C842-4892-B84B-172EBB1CD271}|MyProject.Implementation\\MyProject.Implementation.csproj|c:\\users\\nena\\source\\repos\\myproject\\myproject.implementation\\usecasehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36125015-C842-4892-B84B-172EBB1CD271}|MyProject.Implementation\\MyProject.Implementation.csproj|solutionrelative:myproject.implementation\\usecasehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36125015-C842-4892-B84B-172EBB1CD271}|MyProject.Implementation\\MyProject.Implementation.csproj|c:\\users\\nena\\source\\repos\\myproject\\myproject.implementation\\actor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36125015-C842-4892-B84B-172EBB1CD271}|MyProject.Implementation\\MyProject.Implementation.csproj|solutionrelative:myproject.implementation\\actor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10BF4025-9C90-4688-905F-3F4A911F9E7C}|MyProject\\MyProject.Api.csproj|c:\\users\\nena\\source\\repos\\myproject\\myproject\\core\\token\\jwttokencreator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10BF4025-9C90-4688-905F-3F4A911F9E7C}|MyProject\\MyProject.Api.csproj|solutionrelative:myproject\\core\\token\\jwttokencreator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10BF4025-9C90-4688-905F-3F4A911F9E7C}|MyProject\\MyProject.Api.csproj|c:\\users\\nena\\source\\repos\\myproject\\myproject\\core\\token\\jwtapplicationactorprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10BF4025-9C90-4688-905F-3F4A911F9E7C}|MyProject\\MyProject.Api.csproj|solutionrelative:myproject\\core\\token\\jwtapplicationactorprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10BF4025-9C90-4688-905F-3F4A911F9E7C}|MyProject\\MyProject.Api.csproj|c:\\users\\nena\\source\\repos\\myproject\\myproject\\core\\token\\itokenstorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10BF4025-9C90-4688-905F-3F4A911F9E7C}|MyProject\\MyProject.Api.csproj|solutionrelative:myproject\\core\\token\\itokenstorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10BF4025-9C90-4688-905F-3F4A911F9E7C}|MyProject\\MyProject.Api.csproj|c:\\users\\nena\\source\\repos\\myproject\\myproject\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10BF4025-9C90-4688-905F-3F4A911F9E7C}|MyProject\\MyProject.Api.csproj|solutionrelative:myproject\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36125015-C842-4892-B84B-172EBB1CD271}|MyProject.Implementation\\MyProject.Implementation.csproj|c:\\users\\nena\\source\\repos\\myproject\\myproject.implementation\\validators\\createuservalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36125015-C842-4892-B84B-172EBB1CD271}|MyProject.Implementation\\MyProject.Implementation.csproj|solutionrelative:myproject.implementation\\validators\\createuservalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36125015-C842-4892-B84B-172EBB1CD271}|MyProject.Implementation\\MyProject.Implementation.csproj|c:\\users\\nena\\source\\repos\\myproject\\myproject.implementation\\validators\\createstatusvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36125015-C842-4892-B84B-172EBB1CD271}|MyProject.Implementation\\MyProject.Implementation.csproj|solutionrelative:myproject.implementation\\validators\\createstatusvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36125015-C842-4892-B84B-172EBB1CD271}|MyProject.Implementation\\MyProject.Implementation.csproj|c:\\users\\nena\\source\\repos\\myproject\\myproject.implementation\\validators\\createrestaurantvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36125015-C842-4892-B84B-172EBB1CD271}|MyProject.Implementation\\MyProject.Implementation.csproj|solutionrelative:myproject.implementation\\validators\\createrestaurantvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36125015-C842-4892-B84B-172EBB1CD271}|MyProject.Implementation\\MyProject.Implementation.csproj|c:\\users\\nena\\source\\repos\\myproject\\myproject.implementation\\validators\\createproductvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36125015-C842-4892-B84B-172EBB1CD271}|MyProject.Implementation\\MyProject.Implementation.csproj|solutionrelative:myproject.implementation\\validators\\createproductvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36125015-C842-4892-B84B-172EBB1CD271}|MyProject.Implementation\\MyProject.Implementation.csproj|c:\\users\\nena\\source\\repos\\myproject\\myproject.implementation\\validators\\createproducervalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36125015-C842-4892-B84B-172EBB1CD271}|MyProject.Implementation\\MyProject.Implementation.csproj|solutionrelative:myproject.implementation\\validators\\createproducervalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36125015-C842-4892-B84B-172EBB1CD271}|MyProject.Implementation\\MyProject.Implementation.csproj|c:\\users\\nena\\source\\repos\\myproject\\myproject.implementation\\validators\\createpaymentvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36125015-C842-4892-B84B-172EBB1CD271}|MyProject.Implementation\\MyProject.Implementation.csproj|solutionrelative:myproject.implementation\\validators\\createpaymentvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36125015-C842-4892-B84B-172EBB1CD271}|MyProject.Implementation\\MyProject.Implementation.csproj|c:\\users\\nena\\source\\repos\\myproject\\myproject.implementation\\validators\\createordervalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36125015-C842-4892-B84B-172EBB1CD271}|MyProject.Implementation\\MyProject.Implementation.csproj|solutionrelative:myproject.implementation\\validators\\createordervalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36125015-C842-4892-B84B-172EBB1CD271}|MyProject.Implementation\\MyProject.Implementation.csproj|c:\\users\\nena\\source\\repos\\myproject\\myproject.implementation\\validators\\createcategoryvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36125015-C842-4892-B84B-172EBB1CD271}|MyProject.Implementation\\MyProject.Implementation.csproj|solutionrelative:myproject.implementation\\validators\\createcategoryvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36125015-C842-4892-B84B-172EBB1CD271}|MyProject.Implementation\\MyProject.Implementation.csproj|c:\\users\\nena\\source\\repos\\myproject\\myproject.implementation\\validators\\createcartvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36125015-C842-4892-B84B-172EBB1CD271}|MyProject.Implementation\\MyProject.Implementation.csproj|solutionrelative:myproject.implementation\\validators\\createcartvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FB4B312-819A-44E7-BDA2-C86302FC3012}|MyProject.Domain\\MyProject.Domain.csproj|c:\\users\\nena\\source\\repos\\myproject\\myproject.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FB4B312-819A-44E7-BDA2-C86302FC3012}|MyProject.Domain\\MyProject.Domain.csproj|solutionrelative:myproject.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FB4B312-819A-44E7-BDA2-C86302FC3012}|MyProject.Domain\\MyProject.Domain.csproj|c:\\users\\nena\\source\\repos\\myproject\\myproject.domain\\entities\\usecaseuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FB4B312-819A-44E7-BDA2-C86302FC3012}|MyProject.Domain\\MyProject.Domain.csproj|solutionrelative:myproject.domain\\entities\\usecaseuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FB4B312-819A-44E7-BDA2-C86302FC3012}|MyProject.Domain\\MyProject.Domain.csproj|c:\\users\\nena\\source\\repos\\myproject\\myproject.domain\\entities\\usecaselog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FB4B312-819A-44E7-BDA2-C86302FC3012}|MyProject.Domain\\MyProject.Domain.csproj|solutionrelative:myproject.domain\\entities\\usecaselog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FB4B312-819A-44E7-BDA2-C86302FC3012}|MyProject.Domain\\MyProject.Domain.csproj|c:\\users\\nena\\source\\repos\\myproject\\myproject.domain\\entities\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FB4B312-819A-44E7-BDA2-C86302FC3012}|MyProject.Domain\\MyProject.Domain.csproj|solutionrelative:myproject.domain\\entities\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FB4B312-819A-44E7-BDA2-C86302FC3012}|MyProject.Domain\\MyProject.Domain.csproj|c:\\users\\nena\\source\\repos\\myproject\\myproject.domain\\entities\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FB4B312-819A-44E7-BDA2-C86302FC3012}|MyProject.Domain\\MyProject.Domain.csproj|solutionrelative:myproject.domain\\entities\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FB4B312-819A-44E7-BDA2-C86302FC3012}|MyProject.Domain\\MyProject.Domain.csproj|c:\\users\\nena\\source\\repos\\myproject\\myproject.domain\\entities\\restaurant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FB4B312-819A-44E7-BDA2-C86302FC3012}|MyProject.Domain\\MyProject.Domain.csproj|solutionrelative:myproject.domain\\entities\\restaurant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FB4B312-819A-44E7-BDA2-C86302FC3012}|MyProject.Domain\\MyProject.Domain.csproj|c:\\users\\nena\\source\\repos\\myproject\\myproject.domain\\entities\\productrestaurant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FB4B312-819A-44E7-BDA2-C86302FC3012}|MyProject.Domain\\MyProject.Domain.csproj|solutionrelative:myproject.domain\\entities\\productrestaurant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FB4B312-819A-44E7-BDA2-C86302FC3012}|MyProject.Domain\\MyProject.Domain.csproj|c:\\users\\nena\\source\\repos\\myproject\\myproject.domain\\entities\\producer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FB4B312-819A-44E7-BDA2-C86302FC3012}|MyProject.Domain\\MyProject.Domain.csproj|solutionrelative:myproject.domain\\entities\\producer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FB4B312-819A-44E7-BDA2-C86302FC3012}|MyProject.Domain\\MyProject.Domain.csproj|c:\\users\\nena\\source\\repos\\myproject\\myproject.domain\\entities\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FB4B312-819A-44E7-BDA2-C86302FC3012}|MyProject.Domain\\MyProject.Domain.csproj|solutionrelative:myproject.domain\\entities\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FB4B312-819A-44E7-BDA2-C86302FC3012}|MyProject.Domain\\MyProject.Domain.csproj|c:\\users\\nena\\source\\repos\\myproject\\myproject.domain\\entities\\orderproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FB4B312-819A-44E7-BDA2-C86302FC3012}|MyProject.Domain\\MyProject.Domain.csproj|solutionrelative:myproject.domain\\entities\\orderproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FB4B312-819A-44E7-BDA2-C86302FC3012}|MyProject.Domain\\MyProject.Domain.csproj|c:\\users\\nena\\source\\repos\\myproject\\myproject.domain\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FB4B312-819A-44E7-BDA2-C86302FC3012}|MyProject.Domain\\MyProject.Domain.csproj|solutionrelative:myproject.domain\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FB4B312-819A-44E7-BDA2-C86302FC3012}|MyProject.Domain\\MyProject.Domain.csproj|c:\\users\\nena\\source\\repos\\myproject\\myproject.domain\\entities\\myentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FB4B312-819A-44E7-BDA2-C86302FC3012}|MyProject.Domain\\MyProject.Domain.csproj|solutionrelative:myproject.domain\\entities\\myentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FB4B312-819A-44E7-BDA2-C86302FC3012}|MyProject.Domain\\MyProject.Domain.csproj|c:\\users\\nena\\source\\repos\\myproject\\myproject.domain\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FB4B312-819A-44E7-BDA2-C86302FC3012}|MyProject.Domain\\MyProject.Domain.csproj|solutionrelative:myproject.domain\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FB4B312-819A-44E7-BDA2-C86302FC3012}|MyProject.Domain\\MyProject.Domain.csproj|c:\\users\\nena\\source\\repos\\myproject\\myproject.domain\\entities\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FB4B312-819A-44E7-BDA2-C86302FC3012}|MyProject.Domain\\MyProject.Domain.csproj|solutionrelative:myproject.domain\\entities\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{460BAD09-5A1F-4CA9-8740-063217C4C3D6}|MyProject.DataAccess\\MyProject.DataAccess.csproj|c:\\users\\nena\\source\\repos\\myproject\\myproject.dataaccess\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{460BAD09-5A1F-4CA9-8740-063217C4C3D6}|MyProject.DataAccess\\MyProject.DataAccess.csproj|solutionrelative:myproject.dataaccess\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{460BAD09-5A1F-4CA9-8740-063217C4C3D6}|MyProject.DataAccess\\MyProject.DataAccess.csproj|c:\\users\\nena\\source\\repos\\myproject\\myproject.dataaccess\\configurations\\userconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{460BAD09-5A1F-4CA9-8740-063217C4C3D6}|MyProject.DataAccess\\MyProject.DataAccess.csproj|solutionrelative:myproject.dataaccess\\configurations\\userconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{460BAD09-5A1F-4CA9-8740-063217C4C3D6}|MyProject.DataAccess\\MyProject.DataAccess.csproj|c:\\users\\nena\\source\\repos\\myproject\\myproject.dataaccess\\configurations\\statusconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{460BAD09-5A1F-4CA9-8740-063217C4C3D6}|MyProject.DataAccess\\MyProject.DataAccess.csproj|solutionrelative:myproject.dataaccess\\configurations\\statusconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{460BAD09-5A1F-4CA9-8740-063217C4C3D6}|MyProject.DataAccess\\MyProject.DataAccess.csproj|c:\\users\\nena\\source\\repos\\myproject\\myproject.dataaccess\\configurations\\restaurantconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{460BAD09-5A1F-4CA9-8740-063217C4C3D6}|MyProject.DataAccess\\MyProject.DataAccess.csproj|solutionrelative:myproject.dataaccess\\configurations\\restaurantconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{460BAD09-5A1F-4CA9-8740-063217C4C3D6}|MyProject.DataAccess\\MyProject.DataAccess.csproj|c:\\users\\nena\\source\\repos\\myproject\\myproject.dataaccess\\configurations\\productrestaurantconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{460BAD09-5A1F-4CA9-8740-063217C4C3D6}|MyProject.DataAccess\\MyProject.DataAccess.csproj|solutionrelative:myproject.dataaccess\\configurations\\productrestaurantconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{460BAD09-5A1F-4CA9-8740-063217C4C3D6}|MyProject.DataAccess\\MyProject.DataAccess.csproj|c:\\users\\nena\\source\\repos\\myproject\\myproject.dataaccess\\configurations\\productconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{460BAD09-5A1F-4CA9-8740-063217C4C3D6}|MyProject.DataAccess\\MyProject.DataAccess.csproj|solutionrelative:myproject.dataaccess\\configurations\\productconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{460BAD09-5A1F-4CA9-8740-063217C4C3D6}|MyProject.DataAccess\\MyProject.DataAccess.csproj|c:\\users\\nena\\source\\repos\\myproject\\myproject.dataaccess\\configurations\\producerconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{460BAD09-5A1F-4CA9-8740-063217C4C3D6}|MyProject.DataAccess\\MyProject.DataAccess.csproj|solutionrelative:myproject.dataaccess\\configurations\\producerconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{460BAD09-5A1F-4CA9-8740-063217C4C3D6}|MyProject.DataAccess\\MyProject.DataAccess.csproj|c:\\users\\nena\\source\\repos\\myproject\\myproject.dataaccess\\configurations\\paymentconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{460BAD09-5A1F-4CA9-8740-063217C4C3D6}|MyProject.DataAccess\\MyProject.DataAccess.csproj|solutionrelative:myproject.dataaccess\\configurations\\paymentconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{460BAD09-5A1F-4CA9-8740-063217C4C3D6}|MyProject.DataAccess\\MyProject.DataAccess.csproj|c:\\users\\nena\\source\\repos\\myproject\\myproject.dataaccess\\configurations\\orderproductconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{460BAD09-5A1F-4CA9-8740-063217C4C3D6}|MyProject.DataAccess\\MyProject.DataAccess.csproj|solutionrelative:myproject.dataaccess\\configurations\\orderproductconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{460BAD09-5A1F-4CA9-8740-063217C4C3D6}|MyProject.DataAccess\\MyProject.DataAccess.csproj|c:\\users\\nena\\source\\repos\\myproject\\myproject.dataaccess\\configurations\\orderconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{460BAD09-5A1F-4CA9-8740-063217C4C3D6}|MyProject.DataAccess\\MyProject.DataAccess.csproj|solutionrelative:myproject.dataaccess\\configurations\\orderconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{460BAD09-5A1F-4CA9-8740-063217C4C3D6}|MyProject.DataAccess\\MyProject.DataAccess.csproj|c:\\users\\nena\\source\\repos\\myproject\\myproject.dataaccess\\configurations\\categoryconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{460BAD09-5A1F-4CA9-8740-063217C4C3D6}|MyProject.DataAccess\\MyProject.DataAccess.csproj|solutionrelative:myproject.dataaccess\\configurations\\categoryconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{460BAD09-5A1F-4CA9-8740-063217C4C3D6}|MyProject.DataAccess\\MyProject.DataAccess.csproj|c:\\users\\nena\\source\\repos\\myproject\\myproject.dataaccess\\configurations\\cartconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{460BAD09-5A1F-4CA9-8740-063217C4C3D6}|MyProject.DataAccess\\MyProject.DataAccess.csproj|solutionrelative:myproject.dataaccess\\configurations\\cartconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1FFFE4F-F24B-49D1-B198-B457B2BCE8C0}|MyProject.Application\\MyProject.Application.csproj|c:\\users\\nena\\source\\repos\\myproject\\myproject.application\\usecases\\iusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1FFFE4F-F24B-49D1-B198-B457B2BCE8C0}|MyProject.Application\\MyProject.Application.csproj|solutionrelative:myproject.application\\usecases\\iusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1FFFE4F-F24B-49D1-B198-B457B2BCE8C0}|MyProject.Application\\MyProject.Application.csproj|c:\\users\\nena\\source\\repos\\myproject\\myproject.application\\dto\\searchentities\\searchbyuserusername.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1FFFE4F-F24B-49D1-B198-B457B2BCE8C0}|MyProject.Application\\MyProject.Application.csproj|solutionrelative:myproject.application\\dto\\searchentities\\searchbyuserusername.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1FFFE4F-F24B-49D1-B198-B457B2BCE8C0}|MyProject.Application\\MyProject.Application.csproj|c:\\users\\nena\\source\\repos\\myproject\\myproject.application\\dto\\searchentities\\searchauditlogdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1FFFE4F-F24B-49D1-B198-B457B2BCE8C0}|MyProject.Application\\MyProject.Application.csproj|solutionrelative:myproject.application\\dto\\searchentities\\searchauditlogdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1FFFE4F-F24B-49D1-B198-B457B2BCE8C0}|MyProject.Application\\MyProject.Application.csproj|c:\\users\\nena\\source\\repos\\myproject\\myproject.application\\dto\\searchentities\\productrestaurantsearchdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1FFFE4F-F24B-49D1-B198-B457B2BCE8C0}|MyProject.Application\\MyProject.Application.csproj|solutionrelative:myproject.application\\dto\\searchentities\\productrestaurantsearchdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1FFFE4F-F24B-49D1-B198-B457B2BCE8C0}|MyProject.Application\\MyProject.Application.csproj|c:\\users\\nena\\source\\repos\\myproject\\myproject.application\\actor\\iusecaselogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1FFFE4F-F24B-49D1-B198-B457B2BCE8C0}|MyProject.Application\\MyProject.Application.csproj|solutionrelative:myproject.application\\actor\\iusecaselogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1FFFE4F-F24B-49D1-B198-B457B2BCE8C0}|MyProject.Application\\MyProject.Application.csproj|c:\\users\\nena\\source\\repos\\myproject\\myproject.application\\actor\\iquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1FFFE4F-F24B-49D1-B198-B457B2BCE8C0}|MyProject.Application\\MyProject.Application.csproj|solutionrelative:myproject.application\\actor\\iquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1FFFE4F-F24B-49D1-B198-B457B2BCE8C0}|MyProject.Application\\MyProject.Application.csproj|c:\\users\\nena\\source\\repos\\myproject\\myproject.application\\actor\\iapplicationactorprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1FFFE4F-F24B-49D1-B198-B457B2BCE8C0}|MyProject.Application\\MyProject.Application.csproj|solutionrelative:myproject.application\\actor\\iapplicationactorprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1FFFE4F-F24B-49D1-B198-B457B2BCE8C0}|MyProject.Application\\MyProject.Application.csproj|c:\\users\\nena\\source\\repos\\myproject\\myproject.application\\actor\\iapplicationactor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1FFFE4F-F24B-49D1-B198-B457B2BCE8C0}|MyProject.Application\\MyProject.Application.csproj|solutionrelative:myproject.application\\actor\\iapplicationactor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10BF4025-9C90-4688-905F-3F4A911F9E7C}|MyProject\\MyProject.Api.csproj|c:\\users\\nena\\source\\repos\\myproject\\myproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10BF4025-9C90-4688-905F-3F4A911F9E7C}|MyProject\\MyProject.Api.csproj|solutionrelative:myproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10BF4025-9C90-4688-905F-3F4A911F9E7C}|MyProject\\MyProject.Api.csproj|c:\\users\\nena\\source\\repos\\myproject\\myproject\\customschemaidselector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10BF4025-9C90-4688-905F-3F4A911F9E7C}|MyProject\\MyProject.Api.csproj|solutionrelative:myproject\\customschemaidselector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10BF4025-9C90-4688-905F-3F4A911F9E7C}|MyProject\\MyProject.Api.csproj|c:\\users\\nena\\source\\repos\\myproject\\myproject\\handlers\\userhandler\\getallusershandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10BF4025-9C90-4688-905F-3F4A911F9E7C}|MyProject\\MyProject.Api.csproj|solutionrelative:myproject\\handlers\\userhandler\\getallusershandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10BF4025-9C90-4688-905F-3F4A911F9E7C}|MyProject\\MyProject.Api.csproj|c:\\users\\nena\\source\\repos\\myproject\\myproject\\handlers\\statushandler\\updatestatushandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10BF4025-9C90-4688-905F-3F4A911F9E7C}|MyProject\\MyProject.Api.csproj|solutionrelative:myproject\\handlers\\statushandler\\updatestatushandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10BF4025-9C90-4688-905F-3F4A911F9E7C}|MyProject\\MyProject.Api.csproj|c:\\users\\nena\\source\\repos\\myproject\\myproject\\handlers\\statushandler\\getstatusbyidhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10BF4025-9C90-4688-905F-3F4A911F9E7C}|MyProject\\MyProject.Api.csproj|solutionrelative:myproject\\handlers\\statushandler\\getstatusbyidhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10BF4025-9C90-4688-905F-3F4A911F9E7C}|MyProject\\MyProject.Api.csproj|c:\\users\\nena\\source\\repos\\myproject\\myproject\\handlers\\statushandler\\getallstatuseshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10BF4025-9C90-4688-905F-3F4A911F9E7C}|MyProject\\MyProject.Api.csproj|solutionrelative:myproject\\handlers\\statushandler\\getallstatuseshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10BF4025-9C90-4688-905F-3F4A911F9E7C}|MyProject\\MyProject.Api.csproj|c:\\users\\nena\\source\\repos\\myproject\\myproject\\handlers\\statushandler\\deletestatushandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10BF4025-9C90-4688-905F-3F4A911F9E7C}|MyProject\\MyProject.Api.csproj|solutionrelative:myproject\\handlers\\statushandler\\deletestatushandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10BF4025-9C90-4688-905F-3F4A911F9E7C}|MyProject\\MyProject.Api.csproj|c:\\users\\nena\\source\\repos\\myproject\\myproject\\handlers\\statushandler\\createstatushandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10BF4025-9C90-4688-905F-3F4A911F9E7C}|MyProject\\MyProject.Api.csproj|solutionrelative:myproject\\handlers\\statushandler\\createstatushandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10BF4025-9C90-4688-905F-3F4A911F9E7C}|MyProject\\MyProject.Api.csproj|c:\\users\\nena\\source\\repos\\myproject\\myproject\\handlers\\productrestauranthandler\\getallprhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10BF4025-9C90-4688-905F-3F4A911F9E7C}|MyProject\\MyProject.Api.csproj|solutionrelative:myproject\\handlers\\productrestauranthandler\\getallprhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10BF4025-9C90-4688-905F-3F4A911F9E7C}|MyProject\\MyProject.Api.csproj|c:\\users\\nena\\source\\repos\\myproject\\myproject\\handlers\\productrestauranthandler\\deleteprhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10BF4025-9C90-4688-905F-3F4A911F9E7C}|MyProject\\MyProject.Api.csproj|solutionrelative:myproject\\handlers\\productrestauranthandler\\deleteprhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10BF4025-9C90-4688-905F-3F4A911F9E7C}|MyProject\\MyProject.Api.csproj|c:\\users\\nena\\source\\repos\\myproject\\myproject\\handlers\\productrestauranthandler\\createprhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10BF4025-9C90-4688-905F-3F4A911F9E7C}|MyProject\\MyProject.Api.csproj|solutionrelative:myproject\\handlers\\productrestauranthandler\\createprhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10BF4025-9C90-4688-905F-3F4A911F9E7C}|MyProject\\MyProject.Api.csproj|c:\\users\\nena\\source\\repos\\myproject\\myproject\\handlers\\producthandler\\updateproducthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10BF4025-9C90-4688-905F-3F4A911F9E7C}|MyProject\\MyProject.Api.csproj|solutionrelative:myproject\\handlers\\producthandler\\updateproducthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10BF4025-9C90-4688-905F-3F4A911F9E7C}|MyProject\\MyProject.Api.csproj|c:\\users\\nena\\source\\repos\\myproject\\myproject\\handlers\\producthandler\\getproductbyidhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10BF4025-9C90-4688-905F-3F4A911F9E7C}|MyProject\\MyProject.Api.csproj|solutionrelative:myproject\\handlers\\producthandler\\getproductbyidhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10BF4025-9C90-4688-905F-3F4A911F9E7C}|MyProject\\MyProject.Api.csproj|c:\\users\\nena\\source\\repos\\myproject\\myproject\\handlers\\producthandler\\getallproductshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10BF4025-9C90-4688-905F-3F4A911F9E7C}|MyProject\\MyProject.Api.csproj|solutionrelative:myproject\\handlers\\producthandler\\getallproductshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10BF4025-9C90-4688-905F-3F4A911F9E7C}|MyProject\\MyProject.Api.csproj|c:\\users\\nena\\source\\repos\\myproject\\myproject\\handlers\\producthandler\\deleteproducthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10BF4025-9C90-4688-905F-3F4A911F9E7C}|MyProject\\MyProject.Api.csproj|solutionrelative:myproject\\handlers\\producthandler\\deleteproducthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10BF4025-9C90-4688-905F-3F4A911F9E7C}|MyProject\\MyProject.Api.csproj|c:\\users\\nena\\source\\repos\\myproject\\myproject\\handlers\\producthandler\\createproducthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10BF4025-9C90-4688-905F-3F4A911F9E7C}|MyProject\\MyProject.Api.csproj|solutionrelative:myproject\\handlers\\producthandler\\createproducthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10BF4025-9C90-4688-905F-3F4A911F9E7C}|MyProject\\MyProject.Api.csproj|c:\\users\\nena\\source\\repos\\myproject\\myproject\\handlers\\producerhandler\\updateproducerhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10BF4025-9C90-4688-905F-3F4A911F9E7C}|MyProject\\MyProject.Api.csproj|solutionrelative:myproject\\handlers\\producerhandler\\updateproducerhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10BF4025-9C90-4688-905F-3F4A911F9E7C}|MyProject\\MyProject.Api.csproj|c:\\users\\nena\\source\\repos\\myproject\\myproject\\handlers\\producerhandler\\getproducerbyidhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10BF4025-9C90-4688-905F-3F4A911F9E7C}|MyProject\\MyProject.Api.csproj|solutionrelative:myproject\\handlers\\producerhandler\\getproducerbyidhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10BF4025-9C90-4688-905F-3F4A911F9E7C}|MyProject\\MyProject.Api.csproj|c:\\users\\nena\\source\\repos\\myproject\\myproject\\handlers\\producerhandler\\getallproducershandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10BF4025-9C90-4688-905F-3F4A911F9E7C}|MyProject\\MyProject.Api.csproj|solutionrelative:myproject\\handlers\\producerhandler\\getallproducershandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10BF4025-9C90-4688-905F-3F4A911F9E7C}|MyProject\\MyProject.Api.csproj|c:\\users\\nena\\source\\repos\\myproject\\myproject\\handlers\\producerhandler\\deleteproducerhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10BF4025-9C90-4688-905F-3F4A911F9E7C}|MyProject\\MyProject.Api.csproj|solutionrelative:myproject\\handlers\\producerhandler\\deleteproducerhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10BF4025-9C90-4688-905F-3F4A911F9E7C}|MyProject\\MyProject.Api.csproj|c:\\users\\nena\\source\\repos\\myproject\\myproject\\handlers\\producerhandler\\createproducerhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10BF4025-9C90-4688-905F-3F4A911F9E7C}|MyProject\\MyProject.Api.csproj|solutionrelative:myproject\\handlers\\producerhandler\\createproducerhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10BF4025-9C90-4688-905F-3F4A911F9E7C}|MyProject\\MyProject.Api.csproj|c:\\users\\nena\\source\\repos\\myproject\\myproject\\handlers\\paymenthandler\\updatepaymenthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10BF4025-9C90-4688-905F-3F4A911F9E7C}|MyProject\\MyProject.Api.csproj|solutionrelative:myproject\\handlers\\paymenthandler\\updatepaymenthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10BF4025-9C90-4688-905F-3F4A911F9E7C}|MyProject\\MyProject.Api.csproj|c:\\users\\nena\\source\\repos\\myproject\\myproject\\handlers\\paymenthandler\\getpaymentbyidhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10BF4025-9C90-4688-905F-3F4A911F9E7C}|MyProject\\MyProject.Api.csproj|solutionrelative:myproject\\handlers\\paymenthandler\\getpaymentbyidhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10BF4025-9C90-4688-905F-3F4A911F9E7C}|MyProject\\MyProject.Api.csproj|c:\\users\\nena\\source\\repos\\myproject\\myproject\\handlers\\paymenthandler\\getallpaymentshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10BF4025-9C90-4688-905F-3F4A911F9E7C}|MyProject\\MyProject.Api.csproj|solutionrelative:myproject\\handlers\\paymenthandler\\getallpaymentshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10BF4025-9C90-4688-905F-3F4A911F9E7C}|MyProject\\MyProject.Api.csproj|c:\\users\\nena\\source\\repos\\myproject\\myproject\\handlers\\paymenthandler\\createpaymenthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10BF4025-9C90-4688-905F-3F4A911F9E7C}|MyProject\\MyProject.Api.csproj|solutionrelative:myproject\\handlers\\paymenthandler\\createpaymenthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10BF4025-9C90-4688-905F-3F4A911F9E7C}|MyProject\\MyProject.Api.csproj|c:\\users\\nena\\source\\repos\\myproject\\myproject\\handlers\\paymenthandler\\deletepaymenthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10BF4025-9C90-4688-905F-3F4A911F9E7C}|MyProject\\MyProject.Api.csproj|solutionrelative:myproject\\handlers\\paymenthandler\\deletepaymenthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10BF4025-9C90-4688-905F-3F4A911F9E7C}|MyProject\\MyProject.Api.csproj|c:\\users\\nena\\source\\repos\\myproject\\myproject\\handlers\\orderhandler\\createorderhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10BF4025-9C90-4688-905F-3F4A911F9E7C}|MyProject\\MyProject.Api.csproj|solutionrelative:myproject\\handlers\\orderhandler\\createorderhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10BF4025-9C90-4688-905F-3F4A911F9E7C}|MyProject\\MyProject.Api.csproj|c:\\users\\nena\\source\\repos\\myproject\\myproject\\handlers\\categoryhandler\\updatecategoryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10BF4025-9C90-4688-905F-3F4A911F9E7C}|MyProject\\MyProject.Api.csproj|solutionrelative:myproject\\handlers\\categoryhandler\\updatecategoryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10BF4025-9C90-4688-905F-3F4A911F9E7C}|MyProject\\MyProject.Api.csproj|c:\\users\\nena\\source\\repos\\myproject\\myproject\\handlers\\categoryhandler\\getcategorybyidhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10BF4025-9C90-4688-905F-3F4A911F9E7C}|MyProject\\MyProject.Api.csproj|solutionrelative:myproject\\handlers\\categoryhandler\\getcategorybyidhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10BF4025-9C90-4688-905F-3F4A911F9E7C}|MyProject\\MyProject.Api.csproj|c:\\users\\nena\\source\\repos\\myproject\\myproject\\handlers\\categoryhandler\\getallcategorieshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10BF4025-9C90-4688-905F-3F4A911F9E7C}|MyProject\\MyProject.Api.csproj|solutionrelative:myproject\\handlers\\categoryhandler\\getallcategorieshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10BF4025-9C90-4688-905F-3F4A911F9E7C}|MyProject\\MyProject.Api.csproj|c:\\users\\nena\\source\\repos\\myproject\\myproject\\handlers\\categoryhandler\\deletecategoryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10BF4025-9C90-4688-905F-3F4A911F9E7C}|MyProject\\MyProject.Api.csproj|solutionrelative:myproject\\handlers\\categoryhandler\\deletecategoryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10BF4025-9C90-4688-905F-3F4A911F9E7C}|MyProject\\MyProject.Api.csproj|c:\\users\\nena\\source\\repos\\myproject\\myproject\\handlers\\categoryhandler\\createcategoryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10BF4025-9C90-4688-905F-3F4A911F9E7C}|MyProject\\MyProject.Api.csproj|solutionrelative:myproject\\handlers\\categoryhandler\\createcategoryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10BF4025-9C90-4688-905F-3F4A911F9E7C}|MyProject\\MyProject.Api.csproj|c:\\users\\nena\\source\\repos\\myproject\\myproject\\extensions\\httprequestextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10BF4025-9C90-4688-905F-3F4A911F9E7C}|MyProject\\MyProject.Api.csproj|solutionrelative:myproject\\extensions\\httprequestextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10BF4025-9C90-4688-905F-3F4A911F9E7C}|MyProject\\MyProject.Api.csproj|c:\\users\\nena\\source\\repos\\myproject\\myproject\\extensions\\authorizeroleattribute .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10BF4025-9C90-4688-905F-3F4A911F9E7C}|MyProject\\MyProject.Api.csproj|solutionrelative:myproject\\extensions\\authorizeroleattribute .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10BF4025-9C90-4688-905F-3F4A911F9E7C}|MyProject\\MyProject.Api.csproj|c:\\users\\nena\\source\\repos\\myproject\\myproject\\extensions\\apiextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10BF4025-9C90-4688-905F-3F4A911F9E7C}|MyProject\\MyProject.Api.csproj|solutionrelative:myproject\\extensions\\apiextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10BF4025-9C90-4688-905F-3F4A911F9E7C}|MyProject\\MyProject.Api.csproj|c:\\users\\nena\\source\\repos\\myproject\\myproject\\core\\servererror.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10BF4025-9C90-4688-905F-3F4A911F9E7C}|MyProject\\MyProject.Api.csproj|solutionrelative:myproject\\core\\servererror.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10BF4025-9C90-4688-905F-3F4A911F9E7C}|MyProject\\MyProject.Api.csproj|c:\\users\\nena\\source\\repos\\myproject\\myproject\\core\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10BF4025-9C90-4688-905F-3F4A911F9E7C}|MyProject\\MyProject.Api.csproj|solutionrelative:myproject\\core\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10BF4025-9C90-4688-905F-3F4A911F9E7C}|MyProject\\MyProject.Api.csproj|c:\\users\\nena\\source\\repos\\myproject\\myproject\\core\\icommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10BF4025-9C90-4688-905F-3F4A911F9E7C}|MyProject\\MyProject.Api.csproj|solutionrelative:myproject\\core\\icommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10BF4025-9C90-4688-905F-3F4A911F9E7C}|MyProject\\MyProject.Api.csproj|c:\\users\\nena\\source\\repos\\myproject\\myproject\\core\\clienterror.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10BF4025-9C90-4688-905F-3F4A911F9E7C}|MyProject\\MyProject.Api.csproj|solutionrelative:myproject\\core\\clienterror.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10BF4025-9C90-4688-905F-3F4A911F9E7C}|MyProject\\MyProject.Api.csproj|c:\\users\\nena\\source\\repos\\myproject\\myproject\\core\\fakeactor\\fakeactor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10BF4025-9C90-4688-905F-3F4A911F9E7C}|MyProject\\MyProject.Api.csproj|solutionrelative:myproject\\core\\fakeactor\\fakeactor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10BF4025-9C90-4688-905F-3F4A911F9E7C}|MyProject\\MyProject.Api.csproj|c:\\users\\nena\\source\\repos\\myproject\\myproject\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10BF4025-9C90-4688-905F-3F4A911F9E7C}|MyProject\\MyProject.Api.csproj|solutionrelative:myproject\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10BF4025-9C90-4688-905F-3F4A911F9E7C}|MyProject\\MyProject.Api.csproj|c:\\users\\nena\\source\\repos\\myproject\\myproject\\controllers\\restaurantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10BF4025-9C90-4688-905F-3F4A911F9E7C}|MyProject\\MyProject.Api.csproj|solutionrelative:myproject\\controllers\\restaurantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10BF4025-9C90-4688-905F-3F4A911F9E7C}|MyProject\\MyProject.Api.csproj|c:\\users\\nena\\source\\repos\\myproject\\myproject\\controllers\\productrestaurantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10BF4025-9C90-4688-905F-3F4A911F9E7C}|MyProject\\MyProject.Api.csproj|solutionrelative:myproject\\controllers\\productrestaurantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10BF4025-9C90-4688-905F-3F4A911F9E7C}|MyProject\\MyProject.Api.csproj|c:\\users\\nena\\source\\repos\\myproject\\myproject\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10BF4025-9C90-4688-905F-3F4A911F9E7C}|MyProject\\MyProject.Api.csproj|solutionrelative:myproject\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10BF4025-9C90-4688-905F-3F4A911F9E7C}|MyProject\\MyProject.Api.csproj|c:\\users\\nena\\source\\repos\\myproject\\myproject\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10BF4025-9C90-4688-905F-3F4A911F9E7C}|MyProject\\MyProject.Api.csproj|solutionrelative:myproject\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject.DataAccess\\Migrations\\20240905055115_RemoveCreatedAtFromRoleTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MyProject.DataAccess\\Migrations\\20240905055115_RemoveCreatedAtFromRoleTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject.DataAccess\\Migrations\\20240905054644_RemoveCreatedAtFromRoleTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MyProject.DataAccess\\Migrations\\20240905054644_RemoveCreatedAtFromRoleTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10BF4025-9C90-4688-905F-3F4A911F9E7C}|MyProject\\MyProject.Api.csproj|c:\\users\\nena\\source\\repos\\myproject\\myproject\\core\\token\\inmemorytokenstorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10BF4025-9C90-4688-905F-3F4A911F9E7C}|MyProject\\MyProject.Api.csproj|solutionrelative:myproject\\core\\token\\inmemorytokenstorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10BF4025-9C90-4688-905F-3F4A911F9E7C}|MyProject\\MyProject.Api.csproj|c:\\users\\nena\\source\\repos\\myproject\\myproject\\myproject.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{10BF4025-9C90-4688-905F-3F4A911F9E7C}|MyProject\\MyProject.Api.csproj|solutionrelative:myproject\\myproject.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{460BAD09-5A1F-4CA9-8740-063217C4C3D6}|MyProject.DataAccess\\MyProject.DataAccess.csproj|c:\\users\\nena\\source\\repos\\myproject\\myproject.dataaccess\\migrations\\20240905061702_add admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{460BAD09-5A1F-4CA9-8740-063217C4C3D6}|MyProject.DataAccess\\MyProject.DataAccess.csproj|solutionrelative:myproject.dataaccess\\migrations\\20240905061702_add admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{460BAD09-5A1F-4CA9-8740-063217C4C3D6}|MyProject.DataAccess\\MyProject.DataAccess.csproj|c:\\users\\nena\\source\\repos\\myproject\\myproject.dataaccess\\migrations\\20240905061546_add admin user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{460BAD09-5A1F-4CA9-8740-063217C4C3D6}|MyProject.DataAccess\\MyProject.DataAccess.csproj|solutionrelative:myproject.dataaccess\\migrations\\20240905061546_add admin user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{460BAD09-5A1F-4CA9-8740-063217C4C3D6}|MyProject.DataAccess\\MyProject.DataAccess.csproj|c:\\users\\nena\\source\\repos\\myproject\\myproject.dataaccess\\migrations\\20240905055631_removecreatedatfromroletable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{460BAD09-5A1F-4CA9-8740-063217C4C3D6}|MyProject.DataAccess\\MyProject.DataAccess.csproj|solutionrelative:myproject.dataaccess\\migrations\\20240905055631_removecreatedatfromroletable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{460BAD09-5A1F-4CA9-8740-063217C4C3D6}|MyProject.DataAccess\\MyProject.DataAccess.csproj|c:\\users\\nena\\source\\repos\\myproject\\myproject.dataaccess\\migrations\\20240905055838_adding roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{460BAD09-5A1F-4CA9-8740-063217C4C3D6}|MyProject.DataAccess\\MyProject.DataAccess.csproj|solutionrelative:myproject.dataaccess\\migrations\\20240905055838_adding roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 229,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EfUserCreateCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject.Implementation\\UseCases\\EfUserCreateCommand.cs",
+              "RelativeDocumentMoniker": "MyProject.Implementation\\UseCases\\EfUserCreateCommand.cs",
+              "ToolTip": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject.Implementation\\UseCases\\EfUserCreateCommand.cs",
+              "RelativeToolTip": "MyProject.Implementation\\UseCases\\EfUserCreateCommand.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAAwDQAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T20:08:22.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuditLogController.cs",
+              "DocumentMoniker": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject\\Controllers\\AuditLogController.cs",
+              "RelativeDocumentMoniker": "MyProject\\Controllers\\AuditLogController.cs",
+              "ToolTip": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject\\Controllers\\AuditLogController.cs",
+              "RelativeToolTip": "MyProject\\Controllers\\AuditLogController.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAAwDwAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T11:34:49.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuditLog.cs",
+              "DocumentMoniker": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject.Domain\\Entities\\AuditLog.cs",
+              "RelativeDocumentMoniker": "MyProject.Domain\\Entities\\AuditLog.cs",
+              "ToolTip": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject.Domain\\Entities\\AuditLog.cs",
+              "RelativeToolTip": "MyProject.Domain\\Entities\\AuditLog.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T05:44:51.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuditLogConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject.DataAccess\\Configurations\\AuditLogConfig.cs",
+              "RelativeDocumentMoniker": "MyProject.DataAccess\\Configurations\\AuditLogConfig.cs",
+              "ToolTip": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject.DataAccess\\Configurations\\AuditLogConfig.cs",
+              "RelativeToolTip": "MyProject.DataAccess\\Configurations\\AuditLogConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T05:42:22.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuditLogger.cs",
+              "DocumentMoniker": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject\\Core\\AuditLogger.cs",
+              "RelativeDocumentMoniker": "MyProject\\Core\\AuditLogger.cs",
+              "ToolTip": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject\\Core\\AuditLogger.cs",
+              "RelativeToolTip": "MyProject\\Core\\AuditLogger.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T07:09:31.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EfUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject.Implementation\\UseCases\\EfUseCase.cs",
+              "RelativeDocumentMoniker": "MyProject.Implementation\\UseCases\\EfUseCase.cs",
+              "ToolTip": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject.Implementation\\UseCases\\EfUseCase.cs",
+              "RelativeToolTip": "MyProject.Implementation\\UseCases\\EfUseCase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T20:08:21.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DBUseCaseLogger.cs",
+              "DocumentMoniker": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject.Implementation\\Logging\\DBUseCaseLogger.cs",
+              "RelativeDocumentMoniker": "MyProject.Implementation\\Logging\\DBUseCaseLogger.cs",
+              "ToolTip": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject.Implementation\\Logging\\DBUseCaseLogger.cs",
+              "RelativeToolTip": "MyProject.Implementation\\Logging\\DBUseCaseLogger.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T20:08:13.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WrongCredentialsException.cs",
+              "DocumentMoniker": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject.Implementation\\Exceptions\\WrongCredentialsException.cs",
+              "RelativeDocumentMoniker": "MyProject.Implementation\\Exceptions\\WrongCredentialsException.cs",
+              "ToolTip": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject.Implementation\\Exceptions\\WrongCredentialsException.cs",
+              "RelativeToolTip": "MyProject.Implementation\\Exceptions\\WrongCredentialsException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T20:08:12.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UnauthorizedException.cs",
+              "DocumentMoniker": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject.Implementation\\Exceptions\\UnauthorizedException.cs",
+              "RelativeDocumentMoniker": "MyProject.Implementation\\Exceptions\\UnauthorizedException.cs",
+              "ToolTip": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject.Implementation\\Exceptions\\UnauthorizedException.cs",
+              "RelativeToolTip": "MyProject.Implementation\\Exceptions\\UnauthorizedException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T05:34:29.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ICommand.cs",
+              "DocumentMoniker": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject.Application\\UseCases\\ICommand.cs",
+              "RelativeDocumentMoniker": "MyProject.Application\\UseCases\\ICommand.cs",
+              "ToolTip": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject.Application\\UseCases\\ICommand.cs",
+              "RelativeToolTip": "MyProject.Application\\UseCases\\ICommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T20:07:21.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SmtpEmailSender.cs",
+              "DocumentMoniker": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject.Application\\Email\\SmtpEmailSender.cs",
+              "RelativeDocumentMoniker": "MyProject.Application\\Email\\SmtpEmailSender.cs",
+              "ToolTip": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject.Application\\Email\\SmtpEmailSender.cs",
+              "RelativeToolTip": "MyProject.Application\\Email\\SmtpEmailSender.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAwBQAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T20:07:14.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IEmailSender.cs",
+              "DocumentMoniker": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject.Application\\Email\\IEmailSender.cs",
+              "RelativeDocumentMoniker": "MyProject.Application\\Email\\IEmailSender.cs",
+              "ToolTip": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject.Application\\Email\\IEmailSender.cs",
+              "RelativeToolTip": "MyProject.Application\\Email\\IEmailSender.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T20:07:13.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CreateProductRestaurantValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject.Implementation\\Validators\\CreateProductRestaurantValidator.cs",
+              "RelativeDocumentMoniker": "MyProject.Implementation\\Validators\\CreateProductRestaurantValidator.cs",
+              "ToolTip": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject.Implementation\\Validators\\CreateProductRestaurantValidator.cs",
+              "RelativeToolTip": "MyProject.Implementation\\Validators\\CreateProductRestaurantValidator.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAAwD8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T07:28:56.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SearchProductsDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject.Application\\DTO\\SearchEntities\\SearchProductsDTO.cs",
+              "RelativeDocumentMoniker": "MyProject.Application\\DTO\\SearchEntities\\SearchProductsDTO.cs",
+              "ToolTip": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject.Application\\DTO\\SearchEntities\\SearchProductsDTO.cs",
+              "RelativeToolTip": "MyProject.Application\\DTO\\SearchEntities\\SearchProductsDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T20:06:50.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SearchCartItems.cs",
+              "DocumentMoniker": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject.Application\\DTO\\SearchEntities\\SearchCartItems.cs",
+              "RelativeDocumentMoniker": "MyProject.Application\\DTO\\SearchEntities\\SearchCartItems.cs",
+              "ToolTip": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject.Application\\DTO\\SearchEntities\\SearchCartItems.cs",
+              "RelativeToolTip": "MyProject.Application\\DTO\\SearchEntities\\SearchCartItems.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T20:06:48.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SearchByNameDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject.Application\\DTO\\SearchEntities\\SearchByNameDTO.cs",
+              "RelativeDocumentMoniker": "MyProject.Application\\DTO\\SearchEntities\\SearchByNameDTO.cs",
+              "ToolTip": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject.Application\\DTO\\SearchEntities\\SearchByNameDTO.cs",
+              "RelativeToolTip": "MyProject.Application\\DTO\\SearchEntities\\SearchByNameDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T11:11:56.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ProducerController.cs",
+              "DocumentMoniker": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject\\Controllers\\ProducerController.cs",
+              "RelativeDocumentMoniker": "MyProject\\Controllers\\ProducerController.cs",
+              "ToolTip": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject\\Controllers\\ProducerController.cs",
+              "RelativeToolTip": "MyProject\\Controllers\\ProducerController.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAAwC4AAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T11:11:52.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "SearchByValueDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject.Application\\DTO\\SearchEntities\\SearchByValueDTO.cs",
+              "RelativeDocumentMoniker": "MyProject.Application\\DTO\\SearchEntities\\SearchByValueDTO.cs",
+              "ToolTip": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject.Application\\DTO\\SearchEntities\\SearchByValueDTO.cs",
+              "RelativeToolTip": "MyProject.Application\\DTO\\SearchEntities\\SearchByValueDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T20:06:47.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "StatusController.cs",
+              "DocumentMoniker": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject\\Controllers\\StatusController.cs",
+              "RelativeDocumentMoniker": "MyProject\\Controllers\\StatusController.cs",
+              "ToolTip": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject\\Controllers\\StatusController.cs",
+              "RelativeToolTip": "MyProject\\Controllers\\StatusController.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAgwCsAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T11:34:08.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "SearchByPaymentMethodDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject.Application\\DTO\\SearchEntities\\SearchByPaymentMethodDTO.cs",
+              "RelativeDocumentMoniker": "MyProject.Application\\DTO\\SearchEntities\\SearchByPaymentMethodDTO.cs",
+              "ToolTip": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject.Application\\DTO\\SearchEntities\\SearchByPaymentMethodDTO.cs",
+              "RelativeToolTip": "MyProject.Application\\DTO\\SearchEntities\\SearchByPaymentMethodDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T20:06:45.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "PaymentDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject.Application\\DTO\\PaymentDTO.cs",
+              "RelativeDocumentMoniker": "MyProject.Application\\DTO\\PaymentDTO.cs",
+              "ToolTip": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject.Application\\DTO\\PaymentDTO.cs",
+              "RelativeToolTip": "MyProject.Application\\DTO\\PaymentDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T20:07:04.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CategoryDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject.Application\\DTO\\CategoryDTO.cs",
+              "RelativeDocumentMoniker": "MyProject.Application\\DTO\\CategoryDTO.cs",
+              "ToolTip": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject.Application\\DTO\\CategoryDTO.cs",
+              "RelativeToolTip": "MyProject.Application\\DTO\\CategoryDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T20:07:00.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "MyProject\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "MyProject\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACEAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T11:33:53.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject.Domain\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "MyProject.Domain\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject.Domain\\Entities\\Product.cs",
+              "RelativeToolTip": "MyProject.Domain\\Entities\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T05:47:25.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "StatusDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject.Application\\DTO\\StatusDTO.cs",
+              "RelativeDocumentMoniker": "MyProject.Application\\DTO\\StatusDTO.cs",
+              "ToolTip": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject.Application\\DTO\\StatusDTO.cs",
+              "RelativeToolTip": "MyProject.Application\\DTO\\StatusDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T20:07:10.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "UserDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject.Application\\DTO\\UserDTO.cs",
+              "RelativeDocumentMoniker": "MyProject.Application\\DTO\\UserDTO.cs",
+              "ToolTip": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject.Application\\DTO\\UserDTO.cs",
+              "RelativeToolTip": "MyProject.Application\\DTO\\UserDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T20:07:10.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "RestaurantDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject.Application\\DTO\\RestaurantDTO.cs",
+              "RelativeDocumentMoniker": "MyProject.Application\\DTO\\RestaurantDTO.cs",
+              "ToolTip": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject.Application\\DTO\\RestaurantDTO.cs",
+              "RelativeToolTip": "MyProject.Application\\DTO\\RestaurantDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T20:07:09.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ProductRestaurantDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject.Application\\DTO\\ProductRestaurantDTO.cs",
+              "RelativeDocumentMoniker": "MyProject.Application\\DTO\\ProductRestaurantDTO.cs",
+              "ToolTip": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject.Application\\DTO\\ProductRestaurantDTO.cs",
+              "RelativeToolTip": "MyProject.Application\\DTO\\ProductRestaurantDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T07:35:32.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ProductDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject.Application\\DTO\\ProductDTO.cs",
+              "RelativeDocumentMoniker": "MyProject.Application\\DTO\\ProductDTO.cs",
+              "ToolTip": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject.Application\\DTO\\ProductDTO.cs",
+              "RelativeToolTip": "MyProject.Application\\DTO\\ProductDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T06:56:08.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ProducerDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject.Application\\DTO\\ProducerDTO.cs",
+              "RelativeDocumentMoniker": "MyProject.Application\\DTO\\ProducerDTO.cs",
+              "ToolTip": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject.Application\\DTO\\ProducerDTO.cs",
+              "RelativeToolTip": "MyProject.Application\\DTO\\ProducerDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T20:07:05.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "OrderDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject.Application\\DTO\\OrderDTO.cs",
+              "RelativeDocumentMoniker": "MyProject.Application\\DTO\\OrderDTO.cs",
+              "ToolTip": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject.Application\\DTO\\OrderDTO.cs",
+              "RelativeToolTip": "MyProject.Application\\DTO\\OrderDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T05:48:47.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "CartDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject.Application\\DTO\\CartDTO.cs",
+              "RelativeDocumentMoniker": "MyProject.Application\\DTO\\CartDTO.cs",
+              "ToolTip": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject.Application\\DTO\\CartDTO.cs",
+              "RelativeToolTip": "MyProject.Application\\DTO\\CartDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T20:06:52.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "AuthRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject\\DTO\\AuthRequest.cs",
+              "RelativeDocumentMoniker": "MyProject\\DTO\\AuthRequest.cs",
+              "ToolTip": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject\\DTO\\AuthRequest.cs",
+              "RelativeToolTip": "MyProject\\DTO\\AuthRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T20:01:17.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "UpdateCartHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject\\Handlers\\CartHandler\\UpdateCartHandler.cs",
+              "RelativeDocumentMoniker": "MyProject\\Handlers\\CartHandler\\UpdateCartHandler.cs",
+              "ToolTip": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject\\Handlers\\CartHandler\\UpdateCartHandler.cs",
+              "RelativeToolTip": "MyProject\\Handlers\\CartHandler\\UpdateCartHandler.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAAwEgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T20:01:41.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "GetAllCartItemsHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject\\Handlers\\CartHandler\\GetAllCartItemsHandler.cs",
+              "RelativeDocumentMoniker": "MyProject\\Handlers\\CartHandler\\GetAllCartItemsHandler.cs",
+              "ToolTip": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject\\Handlers\\CartHandler\\GetAllCartItemsHandler.cs",
+              "RelativeToolTip": "MyProject\\Handlers\\CartHandler\\GetAllCartItemsHandler.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAwDcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T20:01:38.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "DeleteCartHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject\\Handlers\\CartHandler\\DeleteCartHandler.cs",
+              "RelativeDocumentMoniker": "MyProject\\Handlers\\CartHandler\\DeleteCartHandler.cs",
+              "ToolTip": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject\\Handlers\\CartHandler\\DeleteCartHandler.cs",
+              "RelativeToolTip": "MyProject\\Handlers\\CartHandler\\DeleteCartHandler.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAwDoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T20:01:35.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "CreateCartHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject\\Handlers\\CartHandler\\CreateCartHandler.cs",
+              "RelativeDocumentMoniker": "MyProject\\Handlers\\CartHandler\\CreateCartHandler.cs",
+              "ToolTip": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject\\Handlers\\CartHandler\\CreateCartHandler.cs",
+              "RelativeToolTip": "MyProject\\Handlers\\CartHandler\\CreateCartHandler.cs",
+              "ViewState": "AQIAAFIAAAAAAAAAAAAAwHEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T19:42:55.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "MyProject\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "MyProject\\Controllers\\CategoryController.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAwE8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T11:34:14.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "MyProject\\Controllers\\CartController.cs",
+              "ToolTip": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject\\Controllers\\CartController.cs",
+              "RelativeToolTip": "MyProject\\Controllers\\CartController.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAAwEoAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T11:36:28.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "UseCaseHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject.Implementation\\UseCaseHandler.cs",
+              "RelativeDocumentMoniker": "MyProject.Implementation\\UseCaseHandler.cs",
+              "ToolTip": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject.Implementation\\UseCaseHandler.cs",
+              "RelativeToolTip": "MyProject.Implementation\\UseCaseHandler.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAwCwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T20:09:08.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Actor.cs",
+              "DocumentMoniker": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject.Implementation\\Actor.cs",
+              "RelativeDocumentMoniker": "MyProject.Implementation\\Actor.cs",
+              "ToolTip": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject.Implementation\\Actor.cs",
+              "RelativeToolTip": "MyProject.Implementation\\Actor.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAwCUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T20:09:05.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "JwtTokenCreator.cs",
+              "DocumentMoniker": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject\\Core\\Token\\JwtTokenCreator.cs",
+              "RelativeDocumentMoniker": "MyProject\\Core\\Token\\JwtTokenCreator.cs",
+              "ToolTip": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject\\Core\\Token\\JwtTokenCreator.cs",
+              "RelativeToolTip": "MyProject\\Core\\Token\\JwtTokenCreator.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAwFUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T11:38:06.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "JwtApplicationActorProvider.cs",
+              "DocumentMoniker": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject\\Core\\Token\\JwtApplicationActorProvider.cs",
+              "RelativeDocumentMoniker": "MyProject\\Core\\Token\\JwtApplicationActorProvider.cs",
+              "ToolTip": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject\\Core\\Token\\JwtApplicationActorProvider.cs",
+              "RelativeToolTip": "MyProject\\Core\\Token\\JwtApplicationActorProvider.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAAwDkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T11:38:03.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "ITokenStorage.cs",
+              "DocumentMoniker": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject\\Core\\Token\\ITokenStorage.cs",
+              "RelativeDocumentMoniker": "MyProject\\Core\\Token\\ITokenStorage.cs",
+              "ToolTip": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject\\Core\\Token\\ITokenStorage.cs",
+              "RelativeToolTip": "MyProject\\Core\\Token\\ITokenStorage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T11:38:00.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "MyProject\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "MyProject\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAADAAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T11:27:01.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "CreateUserValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject.Implementation\\Validators\\CreateUserValidator.cs",
+              "RelativeDocumentMoniker": "MyProject.Implementation\\Validators\\CreateUserValidator.cs",
+              "ToolTip": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject.Implementation\\Validators\\CreateUserValidator.cs",
+              "RelativeToolTip": "MyProject.Implementation\\Validators\\CreateUserValidator.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T20:09:03.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "CreateStatusValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject.Implementation\\Validators\\CreateStatusValidator.cs",
+              "RelativeDocumentMoniker": "MyProject.Implementation\\Validators\\CreateStatusValidator.cs",
+              "ToolTip": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject.Implementation\\Validators\\CreateStatusValidator.cs",
+              "RelativeToolTip": "MyProject.Implementation\\Validators\\CreateStatusValidator.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T20:09:01.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "CreateRestaurantValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject.Implementation\\Validators\\CreateRestaurantValidator.cs",
+              "RelativeDocumentMoniker": "MyProject.Implementation\\Validators\\CreateRestaurantValidator.cs",
+              "ToolTip": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject.Implementation\\Validators\\CreateRestaurantValidator.cs",
+              "RelativeToolTip": "MyProject.Implementation\\Validators\\CreateRestaurantValidator.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T20:08:59.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "CreatePaymentValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject.Implementation\\Validators\\CreatePaymentValidator.cs",
+              "RelativeDocumentMoniker": "MyProject.Implementation\\Validators\\CreatePaymentValidator.cs",
+              "ToolTip": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject.Implementation\\Validators\\CreatePaymentValidator.cs",
+              "RelativeToolTip": "MyProject.Implementation\\Validators\\CreatePaymentValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T19:08:23.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "CreateProducerValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject.Implementation\\Validators\\CreateProducerValidator.cs",
+              "RelativeDocumentMoniker": "MyProject.Implementation\\Validators\\CreateProducerValidator.cs",
+              "ToolTip": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject.Implementation\\Validators\\CreateProducerValidator.cs",
+              "RelativeToolTip": "MyProject.Implementation\\Validators\\CreateProducerValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T15:05:21.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "CreateProductValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject.Implementation\\Validators\\CreateProductValidator.cs",
+              "RelativeDocumentMoniker": "MyProject.Implementation\\Validators\\CreateProductValidator.cs",
+              "ToolTip": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject.Implementation\\Validators\\CreateProductValidator.cs",
+              "RelativeToolTip": "MyProject.Implementation\\Validators\\CreateProductValidator.cs",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAAAEIAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T19:08:32.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "CreateOrderValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject.Implementation\\Validators\\CreateOrderValidator.cs",
+              "RelativeDocumentMoniker": "MyProject.Implementation\\Validators\\CreateOrderValidator.cs",
+              "ToolTip": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject.Implementation\\Validators\\CreateOrderValidator.cs",
+              "RelativeToolTip": "MyProject.Implementation\\Validators\\CreateOrderValidator.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAADAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T19:08:26.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "CreateCategoryValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject.Implementation\\Validators\\CreateCategoryValidator.cs",
+              "RelativeDocumentMoniker": "MyProject.Implementation\\Validators\\CreateCategoryValidator.cs",
+              "ToolTip": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject.Implementation\\Validators\\CreateCategoryValidator.cs",
+              "RelativeToolTip": "MyProject.Implementation\\Validators\\CreateCategoryValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T19:08:28.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "CreateCartValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject.Implementation\\Validators\\CreateCartValidator.cs",
+              "RelativeDocumentMoniker": "MyProject.Implementation\\Validators\\CreateCartValidator.cs",
+              "ToolTip": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject.Implementation\\Validators\\CreateCartValidator.cs",
+              "RelativeToolTip": "MyProject.Implementation\\Validators\\CreateCartValidator.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T20:08:31.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject.Domain\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "MyProject.Domain\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject.Domain\\Entities\\User.cs",
+              "RelativeToolTip": "MyProject.Domain\\Entities\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T20:08:09.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "UseCaseUser.cs",
+              "DocumentMoniker": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject.Domain\\Entities\\UseCaseUser.cs",
+              "RelativeDocumentMoniker": "MyProject.Domain\\Entities\\UseCaseUser.cs",
+              "ToolTip": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject.Domain\\Entities\\UseCaseUser.cs",
+              "RelativeToolTip": "MyProject.Domain\\Entities\\UseCaseUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T20:08:07.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "UseCaseLog.cs",
+              "DocumentMoniker": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject.Domain\\Entities\\UseCaseLog.cs",
+              "RelativeDocumentMoniker": "MyProject.Domain\\Entities\\UseCaseLog.cs",
+              "ToolTip": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject.Domain\\Entities\\UseCaseLog.cs",
+              "RelativeToolTip": "MyProject.Domain\\Entities\\UseCaseLog.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T20:08:07.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "Status.cs",
+              "DocumentMoniker": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject.Domain\\Entities\\Status.cs",
+              "RelativeDocumentMoniker": "MyProject.Domain\\Entities\\Status.cs",
+              "ToolTip": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject.Domain\\Entities\\Status.cs",
+              "RelativeToolTip": "MyProject.Domain\\Entities\\Status.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T20:08:05.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "Restaurant.cs",
+              "DocumentMoniker": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject.Domain\\Entities\\Restaurant.cs",
+              "RelativeDocumentMoniker": "MyProject.Domain\\Entities\\Restaurant.cs",
+              "ToolTip": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject.Domain\\Entities\\Restaurant.cs",
+              "RelativeToolTip": "MyProject.Domain\\Entities\\Restaurant.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T20:08:04.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "Producer.cs",
+              "DocumentMoniker": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject.Domain\\Entities\\Producer.cs",
+              "RelativeDocumentMoniker": "MyProject.Domain\\Entities\\Producer.cs",
+              "ToolTip": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject.Domain\\Entities\\Producer.cs",
+              "RelativeToolTip": "MyProject.Domain\\Entities\\Producer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T20:08:01.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "MyEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject.Domain\\Entities\\MyEntity.cs",
+              "RelativeDocumentMoniker": "MyProject.Domain\\Entities\\MyEntity.cs",
+              "ToolTip": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject.Domain\\Entities\\MyEntity.cs",
+              "RelativeToolTip": "MyProject.Domain\\Entities\\MyEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T20:07:57.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject.Domain\\Entities\\Order.cs",
+              "RelativeDocumentMoniker": "MyProject.Domain\\Entities\\Order.cs",
+              "ToolTip": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject.Domain\\Entities\\Order.cs",
+              "RelativeToolTip": "MyProject.Domain\\Entities\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T05:47:56.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "OrderProduct.cs",
+              "DocumentMoniker": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject.Domain\\Entities\\OrderProduct.cs",
+              "RelativeDocumentMoniker": "MyProject.Domain\\Entities\\OrderProduct.cs",
+              "ToolTip": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject.Domain\\Entities\\OrderProduct.cs",
+              "RelativeToolTip": "MyProject.Domain\\Entities\\OrderProduct.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T05:47:36.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject.Domain\\Entities\\Role.cs",
+              "RelativeDocumentMoniker": "MyProject.Domain\\Entities\\Role.cs",
+              "ToolTip": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject.Domain\\Entities\\Role.cs",
+              "RelativeToolTip": "MyProject.Domain\\Entities\\Role.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T05:43:35.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "ProductRestaurant.cs",
+              "DocumentMoniker": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject.Domain\\Entities\\ProductRestaurant.cs",
+              "RelativeDocumentMoniker": "MyProject.Domain\\Entities\\ProductRestaurant.cs",
+              "ToolTip": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject.Domain\\Entities\\ProductRestaurant.cs",
+              "RelativeToolTip": "MyProject.Domain\\Entities\\ProductRestaurant.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T05:50:50.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject.Domain\\Entities\\Cart.cs",
+              "RelativeDocumentMoniker": "MyProject.Domain\\Entities\\Cart.cs",
+              "ToolTip": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject.Domain\\Entities\\Cart.cs",
+              "RelativeToolTip": "MyProject.Domain\\Entities\\Cart.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T20:07:55.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "MyDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject.DataAccess\\MyDBContext.cs",
+              "RelativeDocumentMoniker": "MyProject.DataAccess\\MyDBContext.cs",
+              "ToolTip": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject.DataAccess\\MyDBContext.cs",
+              "RelativeToolTip": "MyProject.DataAccess\\MyDBContext.cs",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAAAEgAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T05:41:54.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject.Domain\\Entities\\Payment.cs",
+              "RelativeDocumentMoniker": "MyProject.Domain\\Entities\\Payment.cs",
+              "ToolTip": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject.Domain\\Entities\\Payment.cs",
+              "RelativeToolTip": "MyProject.Domain\\Entities\\Payment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T05:54:49.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "UserConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject.DataAccess\\Configurations\\UserConfig.cs",
+              "RelativeDocumentMoniker": "MyProject.DataAccess\\Configurations\\UserConfig.cs",
+              "ToolTip": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject.DataAccess\\Configurations\\UserConfig.cs",
+              "RelativeToolTip": "MyProject.DataAccess\\Configurations\\UserConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T05:43:09.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "StatusConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject.DataAccess\\Configurations\\StatusConfig.cs",
+              "RelativeDocumentMoniker": "MyProject.DataAccess\\Configurations\\StatusConfig.cs",
+              "ToolTip": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject.DataAccess\\Configurations\\StatusConfig.cs",
+              "RelativeToolTip": "MyProject.DataAccess\\Configurations\\StatusConfig.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T05:43:08.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject.Domain\\Entities\\Category.cs",
+              "RelativeDocumentMoniker": "MyProject.Domain\\Entities\\Category.cs",
+              "ToolTip": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject.Domain\\Entities\\Category.cs",
+              "RelativeToolTip": "MyProject.Domain\\Entities\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T05:48:50.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "RestaurantConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject.DataAccess\\Configurations\\RestaurantConfig.cs",
+              "RelativeDocumentMoniker": "MyProject.DataAccess\\Configurations\\RestaurantConfig.cs",
+              "ToolTip": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject.DataAccess\\Configurations\\RestaurantConfig.cs",
+              "RelativeToolTip": "MyProject.DataAccess\\Configurations\\RestaurantConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T05:43:06.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "ProductRestaurantConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject.DataAccess\\Configurations\\ProductRestaurantConfig.cs",
+              "RelativeDocumentMoniker": "MyProject.DataAccess\\Configurations\\ProductRestaurantConfig.cs",
+              "ToolTip": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject.DataAccess\\Configurations\\ProductRestaurantConfig.cs",
+              "RelativeToolTip": "MyProject.DataAccess\\Configurations\\ProductRestaurantConfig.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T05:43:03.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "ProductConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject.DataAccess\\Configurations\\ProductConfig.cs",
+              "RelativeDocumentMoniker": "MyProject.DataAccess\\Configurations\\ProductConfig.cs",
+              "ToolTip": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject.DataAccess\\Configurations\\ProductConfig.cs",
+              "RelativeToolTip": "MyProject.DataAccess\\Configurations\\ProductConfig.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAACIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T05:43:02.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "ProducerConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject.DataAccess\\Configurations\\ProducerConfig.cs",
+              "RelativeDocumentMoniker": "MyProject.DataAccess\\Configurations\\ProducerConfig.cs",
+              "ToolTip": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject.DataAccess\\Configurations\\ProducerConfig.cs",
+              "RelativeToolTip": "MyProject.DataAccess\\Configurations\\ProducerConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T05:43:01.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "PaymentConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject.DataAccess\\Configurations\\PaymentConfig.cs",
+              "RelativeDocumentMoniker": "MyProject.DataAccess\\Configurations\\PaymentConfig.cs",
+              "ToolTip": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject.DataAccess\\Configurations\\PaymentConfig.cs",
+              "RelativeToolTip": "MyProject.DataAccess\\Configurations\\PaymentConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T05:42:50.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "OrderProductConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject.DataAccess\\Configurations\\OrderProductConfig.cs",
+              "RelativeDocumentMoniker": "MyProject.DataAccess\\Configurations\\OrderProductConfig.cs",
+              "ToolTip": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject.DataAccess\\Configurations\\OrderProductConfig.cs",
+              "RelativeToolTip": "MyProject.DataAccess\\Configurations\\OrderProductConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T20:07:28.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "OrderConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject.DataAccess\\Configurations\\OrderConfig.cs",
+              "RelativeDocumentMoniker": "MyProject.DataAccess\\Configurations\\OrderConfig.cs",
+              "ToolTip": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject.DataAccess\\Configurations\\OrderConfig.cs",
+              "RelativeToolTip": "MyProject.DataAccess\\Configurations\\OrderConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T05:42:26.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "CartConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject.DataAccess\\Configurations\\CartConfig.cs",
+              "RelativeDocumentMoniker": "MyProject.DataAccess\\Configurations\\CartConfig.cs",
+              "ToolTip": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject.DataAccess\\Configurations\\CartConfig.cs",
+              "RelativeToolTip": "MyProject.DataAccess\\Configurations\\CartConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T05:42:24.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "IUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject.Application\\UseCases\\IUseCase.cs",
+              "RelativeDocumentMoniker": "MyProject.Application\\UseCases\\IUseCase.cs",
+              "ToolTip": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject.Application\\UseCases\\IUseCase.cs",
+              "RelativeToolTip": "MyProject.Application\\UseCases\\IUseCase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T20:07:21.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "CategoryConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject.DataAccess\\Configurations\\CategoryConfig.cs",
+              "RelativeDocumentMoniker": "MyProject.DataAccess\\Configurations\\CategoryConfig.cs",
+              "ToolTip": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject.DataAccess\\Configurations\\CategoryConfig.cs",
+              "RelativeToolTip": "MyProject.DataAccess\\Configurations\\CategoryConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T05:42:25.762Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "ProductRestaurantSearchDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject.Application\\DTO\\SearchEntities\\ProductRestaurantSearchDTO.cs",
+              "RelativeDocumentMoniker": "MyProject.Application\\DTO\\SearchEntities\\ProductRestaurantSearchDTO.cs",
+              "ToolTip": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject.Application\\DTO\\SearchEntities\\ProductRestaurantSearchDTO.cs",
+              "RelativeToolTip": "MyProject.Application\\DTO\\SearchEntities\\ProductRestaurantSearchDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T07:35:42.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "SearchAuditLogDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject.Application\\DTO\\SearchEntities\\SearchAuditLogDTO.cs",
+              "RelativeDocumentMoniker": "MyProject.Application\\DTO\\SearchEntities\\SearchAuditLogDTO.cs",
+              "ToolTip": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject.Application\\DTO\\SearchEntities\\SearchAuditLogDTO.cs",
+              "RelativeToolTip": "MyProject.Application\\DTO\\SearchEntities\\SearchAuditLogDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T19:36:53.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "SearchByUserUsername.cs",
+              "DocumentMoniker": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject.Application\\DTO\\SearchEntities\\SearchByUserUsername.cs",
+              "RelativeDocumentMoniker": "MyProject.Application\\DTO\\SearchEntities\\SearchByUserUsername.cs",
+              "ToolTip": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject.Application\\DTO\\SearchEntities\\SearchByUserUsername.cs",
+              "RelativeToolTip": "MyProject.Application\\DTO\\SearchEntities\\SearchByUserUsername.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T06:08:13.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "IUseCaseLogger.cs",
+              "DocumentMoniker": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject.Application\\Actor\\IUseCaseLogger.cs",
+              "RelativeDocumentMoniker": "MyProject.Application\\Actor\\IUseCaseLogger.cs",
+              "ToolTip": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject.Application\\Actor\\IUseCaseLogger.cs",
+              "RelativeToolTip": "MyProject.Application\\Actor\\IUseCaseLogger.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T20:06:42.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "IQuery.cs",
+              "DocumentMoniker": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject.Application\\Actor\\IQuery.cs",
+              "RelativeDocumentMoniker": "MyProject.Application\\Actor\\IQuery.cs",
+              "ToolTip": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject.Application\\Actor\\IQuery.cs",
+              "RelativeToolTip": "MyProject.Application\\Actor\\IQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T20:06:40.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "IApplicationActorProvider.cs",
+              "DocumentMoniker": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject.Application\\Actor\\IApplicationActorProvider.cs",
+              "RelativeDocumentMoniker": "MyProject.Application\\Actor\\IApplicationActorProvider.cs",
+              "ToolTip": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject.Application\\Actor\\IApplicationActorProvider.cs",
+              "RelativeToolTip": "MyProject.Application\\Actor\\IApplicationActorProvider.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T20:06:40.24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "IApplicationActor.cs",
+              "DocumentMoniker": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject.Application\\Actor\\IApplicationActor.cs",
+              "RelativeDocumentMoniker": "MyProject.Application\\Actor\\IApplicationActor.cs",
+              "ToolTip": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject.Application\\Actor\\IApplicationActor.cs",
+              "RelativeToolTip": "MyProject.Application\\Actor\\IApplicationActor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T19:46:03.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 91,
+              "Title": "UpdateStatusHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject\\Handlers\\StatusHandler\\UpdateStatusHandler.cs",
+              "RelativeDocumentMoniker": "MyProject\\Handlers\\StatusHandler\\UpdateStatusHandler.cs",
+              "ToolTip": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject\\Handlers\\StatusHandler\\UpdateStatusHandler.cs",
+              "RelativeToolTip": "MyProject\\Handlers\\StatusHandler\\UpdateStatusHandler.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T20:05:19.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 90,
+              "Title": "GetAllUsersHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject\\Handlers\\UserHandler\\GetAllUsersHandler.cs",
+              "RelativeDocumentMoniker": "MyProject\\Handlers\\UserHandler\\GetAllUsersHandler.cs",
+              "ToolTip": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject\\Handlers\\UserHandler\\GetAllUsersHandler.cs",
+              "RelativeToolTip": "MyProject\\Handlers\\UserHandler\\GetAllUsersHandler.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAwA8AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T06:06:46.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 89,
+              "Title": "CustomSchemaIdSelector.cs",
+              "DocumentMoniker": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject\\CustomSchemaIdSelector.cs",
+              "RelativeDocumentMoniker": "MyProject\\CustomSchemaIdSelector.cs",
+              "ToolTip": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject\\CustomSchemaIdSelector.cs",
+              "RelativeToolTip": "MyProject\\CustomSchemaIdSelector.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T11:01:25.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject\\Program.cs",
+              "RelativeDocumentMoniker": "MyProject\\Program.cs",
+              "ToolTip": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject\\Program.cs",
+              "RelativeToolTip": "MyProject\\Program.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAwCYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T10:38:39.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 92,
+              "Title": "GetStatusByIdHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject\\Handlers\\StatusHandler\\GetStatusByIdHandler.cs",
+              "RelativeDocumentMoniker": "MyProject\\Handlers\\StatusHandler\\GetStatusByIdHandler.cs",
+              "ToolTip": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject\\Handlers\\StatusHandler\\GetStatusByIdHandler.cs",
+              "RelativeToolTip": "MyProject\\Handlers\\StatusHandler\\GetStatusByIdHandler.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T20:05:17.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 94,
+              "Title": "DeleteStatusHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject\\Handlers\\StatusHandler\\DeleteStatusHandler.cs",
+              "RelativeDocumentMoniker": "MyProject\\Handlers\\StatusHandler\\DeleteStatusHandler.cs",
+              "ToolTip": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject\\Handlers\\StatusHandler\\DeleteStatusHandler.cs",
+              "RelativeToolTip": "MyProject\\Handlers\\StatusHandler\\DeleteStatusHandler.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T20:05:12.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 97,
+              "Title": "DeletePRHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject\\Handlers\\ProductRestaurantHandler\\DeletePRHandler.cs",
+              "RelativeDocumentMoniker": "MyProject\\Handlers\\ProductRestaurantHandler\\DeletePRHandler.cs",
+              "ToolTip": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject\\Handlers\\ProductRestaurantHandler\\DeletePRHandler.cs",
+              "RelativeToolTip": "MyProject\\Handlers\\ProductRestaurantHandler\\DeletePRHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T07:36:18.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 96,
+              "Title": "GetAllPRHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject\\Handlers\\ProductRestaurantHandler\\GetAllPRHandler.cs",
+              "RelativeDocumentMoniker": "MyProject\\Handlers\\ProductRestaurantHandler\\GetAllPRHandler.cs",
+              "ToolTip": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject\\Handlers\\ProductRestaurantHandler\\GetAllPRHandler.cs",
+              "RelativeToolTip": "MyProject\\Handlers\\ProductRestaurantHandler\\GetAllPRHandler.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T07:36:22.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 93,
+              "Title": "GetAllStatusesHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject\\Handlers\\StatusHandler\\GetAllStatusesHandler.cs",
+              "RelativeDocumentMoniker": "MyProject\\Handlers\\StatusHandler\\GetAllStatusesHandler.cs",
+              "ToolTip": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject\\Handlers\\StatusHandler\\GetAllStatusesHandler.cs",
+              "RelativeToolTip": "MyProject\\Handlers\\StatusHandler\\GetAllStatusesHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T06:06:51.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 98,
+              "Title": "CreatePRHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject\\Handlers\\ProductRestaurantHandler\\CreatePRHandler.cs",
+              "RelativeDocumentMoniker": "MyProject\\Handlers\\ProductRestaurantHandler\\CreatePRHandler.cs",
+              "ToolTip": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject\\Handlers\\ProductRestaurantHandler\\CreatePRHandler.cs",
+              "RelativeToolTip": "MyProject\\Handlers\\ProductRestaurantHandler\\CreatePRHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADMAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T07:35:47.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 95,
+              "Title": "CreateStatusHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject\\Handlers\\StatusHandler\\CreateStatusHandler.cs",
+              "RelativeDocumentMoniker": "MyProject\\Handlers\\StatusHandler\\CreateStatusHandler.cs",
+              "ToolTip": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject\\Handlers\\StatusHandler\\CreateStatusHandler.cs",
+              "RelativeToolTip": "MyProject\\Handlers\\StatusHandler\\CreateStatusHandler.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAAB0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T07:19:40.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 99,
+              "Title": "UpdateProductHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject\\Handlers\\ProductHandler\\UpdateProductHandler.cs",
+              "RelativeDocumentMoniker": "MyProject\\Handlers\\ProductHandler\\UpdateProductHandler.cs",
+              "ToolTip": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject\\Handlers\\ProductHandler\\UpdateProductHandler.cs",
+              "RelativeToolTip": "MyProject\\Handlers\\ProductHandler\\UpdateProductHandler.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T20:04:55.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 100,
+              "Title": "GetProductByIdHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject\\Handlers\\ProductHandler\\GetProductByIdHandler.cs",
+              "RelativeDocumentMoniker": "MyProject\\Handlers\\ProductHandler\\GetProductByIdHandler.cs",
+              "ToolTip": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject\\Handlers\\ProductHandler\\GetProductByIdHandler.cs",
+              "RelativeToolTip": "MyProject\\Handlers\\ProductHandler\\GetProductByIdHandler.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T20:04:53.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 101,
+              "Title": "GetAllProductsHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject\\Handlers\\ProductHandler\\GetAllProductsHandler.cs",
+              "RelativeDocumentMoniker": "MyProject\\Handlers\\ProductHandler\\GetAllProductsHandler.cs",
+              "ToolTip": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject\\Handlers\\ProductHandler\\GetAllProductsHandler.cs",
+              "RelativeToolTip": "MyProject\\Handlers\\ProductHandler\\GetAllProductsHandler.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T20:04:50.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 102,
+              "Title": "DeleteProductHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject\\Handlers\\ProductHandler\\DeleteProductHandler.cs",
+              "RelativeDocumentMoniker": "MyProject\\Handlers\\ProductHandler\\DeleteProductHandler.cs",
+              "ToolTip": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject\\Handlers\\ProductHandler\\DeleteProductHandler.cs",
+              "RelativeToolTip": "MyProject\\Handlers\\ProductHandler\\DeleteProductHandler.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T20:03:33.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 105,
+              "Title": "GetProducerByIdHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject\\Handlers\\ProducerHandler\\GetProducerByIdHandler.cs",
+              "RelativeDocumentMoniker": "MyProject\\Handlers\\ProducerHandler\\GetProducerByIdHandler.cs",
+              "ToolTip": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject\\Handlers\\ProducerHandler\\GetProducerByIdHandler.cs",
+              "RelativeToolTip": "MyProject\\Handlers\\ProducerHandler\\GetProducerByIdHandler.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T20:03:11.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 104,
+              "Title": "UpdateProducerHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject\\Handlers\\ProducerHandler\\UpdateProducerHandler.cs",
+              "RelativeDocumentMoniker": "MyProject\\Handlers\\ProducerHandler\\UpdateProducerHandler.cs",
+              "ToolTip": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject\\Handlers\\ProducerHandler\\UpdateProducerHandler.cs",
+              "RelativeToolTip": "MyProject\\Handlers\\ProducerHandler\\UpdateProducerHandler.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAADUAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T06:36:59.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 103,
+              "Title": "CreateProductHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject\\Handlers\\ProductHandler\\CreateProductHandler.cs",
+              "RelativeDocumentMoniker": "MyProject\\Handlers\\ProductHandler\\CreateProductHandler.cs",
+              "ToolTip": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject\\Handlers\\ProductHandler\\CreateProductHandler.cs",
+              "RelativeToolTip": "MyProject\\Handlers\\ProductHandler\\CreateProductHandler.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAAwBsAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T06:55:08.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 107,
+              "Title": "DeleteProducerHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject\\Handlers\\ProducerHandler\\DeleteProducerHandler.cs",
+              "RelativeDocumentMoniker": "MyProject\\Handlers\\ProducerHandler\\DeleteProducerHandler.cs",
+              "ToolTip": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject\\Handlers\\ProducerHandler\\DeleteProducerHandler.cs",
+              "RelativeToolTip": "MyProject\\Handlers\\ProducerHandler\\DeleteProducerHandler.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T20:03:05.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 109,
+              "Title": "UpdatePaymentHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject\\Handlers\\PaymentHandler\\UpdatePaymentHandler.cs",
+              "RelativeDocumentMoniker": "MyProject\\Handlers\\PaymentHandler\\UpdatePaymentHandler.cs",
+              "ToolTip": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject\\Handlers\\PaymentHandler\\UpdatePaymentHandler.cs",
+              "RelativeToolTip": "MyProject\\Handlers\\PaymentHandler\\UpdatePaymentHandler.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T20:02:59.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 110,
+              "Title": "GetPaymentByIdHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject\\Handlers\\PaymentHandler\\GetPaymentByIdHandler.cs",
+              "RelativeDocumentMoniker": "MyProject\\Handlers\\PaymentHandler\\GetPaymentByIdHandler.cs",
+              "ToolTip": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject\\Handlers\\PaymentHandler\\GetPaymentByIdHandler.cs",
+              "RelativeToolTip": "MyProject\\Handlers\\PaymentHandler\\GetPaymentByIdHandler.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T20:02:55.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 106,
+              "Title": "GetAllProducersHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject\\Handlers\\ProducerHandler\\GetAllProducersHandler.cs",
+              "RelativeDocumentMoniker": "MyProject\\Handlers\\ProducerHandler\\GetAllProducersHandler.cs",
+              "ToolTip": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject\\Handlers\\ProducerHandler\\GetAllProducersHandler.cs",
+              "RelativeToolTip": "MyProject\\Handlers\\ProducerHandler\\GetAllProducersHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T11:12:23.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 111,
+              "Title": "GetAllPaymentsHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject\\Handlers\\PaymentHandler\\GetAllPaymentsHandler.cs",
+              "RelativeDocumentMoniker": "MyProject\\Handlers\\PaymentHandler\\GetAllPaymentsHandler.cs",
+              "ToolTip": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject\\Handlers\\PaymentHandler\\GetAllPaymentsHandler.cs",
+              "RelativeToolTip": "MyProject\\Handlers\\PaymentHandler\\GetAllPaymentsHandler.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T20:02:55.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 108,
+              "Title": "CreateProducerHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject\\Handlers\\ProducerHandler\\CreateProducerHandler.cs",
+              "RelativeDocumentMoniker": "MyProject\\Handlers\\ProducerHandler\\CreateProducerHandler.cs",
+              "ToolTip": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject\\Handlers\\ProducerHandler\\CreateProducerHandler.cs",
+              "RelativeToolTip": "MyProject\\Handlers\\ProducerHandler\\CreateProducerHandler.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T06:55:05.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 113,
+              "Title": "DeletePaymentHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject\\Handlers\\PaymentHandler\\DeletePaymentHandler.cs",
+              "RelativeDocumentMoniker": "MyProject\\Handlers\\PaymentHandler\\DeletePaymentHandler.cs",
+              "ToolTip": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject\\Handlers\\PaymentHandler\\DeletePaymentHandler.cs",
+              "RelativeToolTip": "MyProject\\Handlers\\PaymentHandler\\DeletePaymentHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T20:02:52.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 112,
+              "Title": "CreatePaymentHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject\\Handlers\\PaymentHandler\\CreatePaymentHandler.cs",
+              "RelativeDocumentMoniker": "MyProject\\Handlers\\PaymentHandler\\CreatePaymentHandler.cs",
+              "ToolTip": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject\\Handlers\\PaymentHandler\\CreatePaymentHandler.cs",
+              "RelativeToolTip": "MyProject\\Handlers\\PaymentHandler\\CreatePaymentHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T20:02:48.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 117,
+              "Title": "GetAllCategoriesHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject\\Handlers\\CategoryHandler\\GetAllCategoriesHandler.cs",
+              "RelativeDocumentMoniker": "MyProject\\Handlers\\CategoryHandler\\GetAllCategoriesHandler.cs",
+              "ToolTip": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject\\Handlers\\CategoryHandler\\GetAllCategoriesHandler.cs",
+              "RelativeToolTip": "MyProject\\Handlers\\CategoryHandler\\GetAllCategoriesHandler.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAEYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T11:12:39.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 115,
+              "Title": "UpdateCategoryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject\\Handlers\\CategoryHandler\\UpdateCategoryHandler.cs",
+              "RelativeDocumentMoniker": "MyProject\\Handlers\\CategoryHandler\\UpdateCategoryHandler.cs",
+              "ToolTip": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject\\Handlers\\CategoryHandler\\UpdateCategoryHandler.cs",
+              "RelativeToolTip": "MyProject\\Handlers\\CategoryHandler\\UpdateCategoryHandler.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAADsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T06:22:51.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 116,
+              "Title": "GetCategoryByIdHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject\\Handlers\\CategoryHandler\\GetCategoryByIdHandler.cs",
+              "RelativeDocumentMoniker": "MyProject\\Handlers\\CategoryHandler\\GetCategoryByIdHandler.cs",
+              "ToolTip": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject\\Handlers\\CategoryHandler\\GetCategoryByIdHandler.cs",
+              "RelativeToolTip": "MyProject\\Handlers\\CategoryHandler\\GetCategoryByIdHandler.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T06:24:34.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 114,
+              "Title": "CreateOrderHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject\\Handlers\\OrderHandler\\CreateOrderHandler.cs",
+              "RelativeDocumentMoniker": "MyProject\\Handlers\\OrderHandler\\CreateOrderHandler.cs",
+              "ToolTip": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject\\Handlers\\OrderHandler\\CreateOrderHandler.cs",
+              "RelativeToolTip": "MyProject\\Handlers\\OrderHandler\\CreateOrderHandler.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAAAEUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T19:46:51.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 118,
+              "Title": "DeleteCategoryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject\\Handlers\\CategoryHandler\\DeleteCategoryHandler.cs",
+              "RelativeDocumentMoniker": "MyProject\\Handlers\\CategoryHandler\\DeleteCategoryHandler.cs",
+              "ToolTip": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject\\Handlers\\CategoryHandler\\DeleteCategoryHandler.cs",
+              "RelativeToolTip": "MyProject\\Handlers\\CategoryHandler\\DeleteCategoryHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T20:02:01.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 119,
+              "Title": "CreateCategoryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject\\Handlers\\CategoryHandler\\CreateCategoryHandler.cs",
+              "RelativeDocumentMoniker": "MyProject\\Handlers\\CategoryHandler\\CreateCategoryHandler.cs",
+              "ToolTip": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject\\Handlers\\CategoryHandler\\CreateCategoryHandler.cs",
+              "RelativeToolTip": "MyProject\\Handlers\\CategoryHandler\\CreateCategoryHandler.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB0AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T07:03:11.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 120,
+              "Title": "HttpRequestExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject\\Extensions\\HttpRequestExtensions.cs",
+              "RelativeDocumentMoniker": "MyProject\\Extensions\\HttpRequestExtensions.cs",
+              "ToolTip": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject\\Extensions\\HttpRequestExtensions.cs",
+              "RelativeToolTip": "MyProject\\Extensions\\HttpRequestExtensions.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T20:01:28.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 123,
+              "Title": "ServerError.cs",
+              "DocumentMoniker": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject\\Core\\ServerError.cs",
+              "RelativeDocumentMoniker": "MyProject\\Core\\ServerError.cs",
+              "ToolTip": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject\\Core\\ServerError.cs",
+              "RelativeToolTip": "MyProject\\Core\\ServerError.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T20:01:16.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 122,
+              "Title": "ApiExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject\\Extensions\\ApiExtensions.cs",
+              "RelativeDocumentMoniker": "MyProject\\Extensions\\ApiExtensions.cs",
+              "ToolTip": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject\\Extensions\\ApiExtensions.cs",
+              "RelativeToolTip": "MyProject\\Extensions\\ApiExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T11:37:34.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 125,
+              "Title": "ICommand.cs",
+              "DocumentMoniker": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject\\Core\\ICommand.cs",
+              "RelativeDocumentMoniker": "MyProject\\Core\\ICommand.cs",
+              "ToolTip": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject\\Core\\ICommand.cs",
+              "RelativeToolTip": "MyProject\\Core\\ICommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T20:01:10.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 121,
+              "Title": "AuthorizeRoleAttribute .cs",
+              "DocumentMoniker": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject\\Extensions\\AuthorizeRoleAttribute .cs",
+              "RelativeDocumentMoniker": "MyProject\\Extensions\\AuthorizeRoleAttribute .cs",
+              "ToolTip": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject\\Extensions\\AuthorizeRoleAttribute .cs",
+              "RelativeToolTip": "MyProject\\Extensions\\AuthorizeRoleAttribute .cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAgwBcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T11:37:36.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 126,
+              "Title": "ClientError.cs",
+              "DocumentMoniker": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject\\Core\\ClientError.cs",
+              "RelativeDocumentMoniker": "MyProject\\Core\\ClientError.cs",
+              "ToolTip": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject\\Core\\ClientError.cs",
+              "RelativeToolTip": "MyProject\\Core\\ClientError.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T20:01:05.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 127,
+              "Title": "FakeActor.cs",
+              "DocumentMoniker": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject\\Core\\FakeActor\\FakeActor.cs",
+              "RelativeDocumentMoniker": "MyProject\\Core\\FakeActor\\FakeActor.cs",
+              "ToolTip": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject\\Core\\FakeActor\\FakeActor.cs",
+              "RelativeToolTip": "MyProject\\Core\\FakeActor\\FakeActor.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACUAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T20:00:57.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 124,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject\\Core\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "MyProject\\Core\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject\\Core\\MappingProfile.cs",
+              "RelativeToolTip": "MyProject\\Core\\MappingProfile.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAAADcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T06:07:09.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 129,
+              "Title": "RestaurantController.cs",
+              "DocumentMoniker": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject\\Controllers\\RestaurantController.cs",
+              "RelativeDocumentMoniker": "MyProject\\Controllers\\RestaurantController.cs",
+              "ToolTip": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject\\Controllers\\RestaurantController.cs",
+              "RelativeToolTip": "MyProject\\Controllers\\RestaurantController.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAADEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T11:34:03.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 130,
+              "Title": "ProductRestaurantController.cs",
+              "DocumentMoniker": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject\\Controllers\\ProductRestaurantController.cs",
+              "RelativeDocumentMoniker": "MyProject\\Controllers\\ProductRestaurantController.cs",
+              "ToolTip": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject\\Controllers\\ProductRestaurantController.cs",
+              "RelativeToolTip": "MyProject\\Controllers\\ProductRestaurantController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAgwCAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T11:34:00.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 128,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "MyProject\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject\\Controllers\\UserController.cs",
+              "RelativeToolTip": "MyProject\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T11:34:31.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 131,
+              "Title": "PaymentController.cs",
+              "DocumentMoniker": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject\\Controllers\\PaymentController.cs",
+              "RelativeDocumentMoniker": "MyProject\\Controllers\\PaymentController.cs",
+              "ToolTip": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject\\Controllers\\PaymentController.cs",
+              "RelativeToolTip": "MyProject\\Controllers\\PaymentController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T11:34:18.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 132,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "MyProject\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "MyProject\\Controllers\\OrderController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T11:36:40.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 137,
+              "Title": "20240905061702_add admin.cs",
+              "DocumentMoniker": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject.DataAccess\\Migrations\\20240905061702_add admin.cs",
+              "RelativeDocumentMoniker": "MyProject.DataAccess\\Migrations\\20240905061702_add admin.cs",
+              "ToolTip": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject.DataAccess\\Migrations\\20240905061702_add admin.cs",
+              "RelativeToolTip": "MyProject.DataAccess\\Migrations\\20240905061702_add admin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T06:17:02.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 138,
+              "Title": "20240905061546_add admin user.cs",
+              "DocumentMoniker": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject.DataAccess\\Migrations\\20240905061546_add admin user.cs",
+              "RelativeDocumentMoniker": "MyProject.DataAccess\\Migrations\\20240905061546_add admin user.cs",
+              "ToolTip": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject.DataAccess\\Migrations\\20240905061546_add admin user.cs",
+              "RelativeToolTip": "MyProject.DataAccess\\Migrations\\20240905061546_add admin user.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T06:15:46.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 139,
+              "Title": "20240905055631_RemoveCreatedAtFromRoleTable.cs",
+              "DocumentMoniker": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject.DataAccess\\Migrations\\20240905055631_RemoveCreatedAtFromRoleTable.cs",
+              "RelativeDocumentMoniker": "MyProject.DataAccess\\Migrations\\20240905055631_RemoveCreatedAtFromRoleTable.cs",
+              "ToolTip": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject.DataAccess\\Migrations\\20240905055631_RemoveCreatedAtFromRoleTable.cs",
+              "RelativeToolTip": "MyProject.DataAccess\\Migrations\\20240905055631_RemoveCreatedAtFromRoleTable.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAACwAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T05:56:31.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 140,
+              "Title": "20240905055838_adding roles.cs",
+              "DocumentMoniker": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject.DataAccess\\Migrations\\20240905055838_adding roles.cs",
+              "RelativeDocumentMoniker": "MyProject.DataAccess\\Migrations\\20240905055838_adding roles.cs",
+              "ToolTip": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject.DataAccess\\Migrations\\20240905055838_adding roles.cs",
+              "RelativeToolTip": "MyProject.DataAccess\\Migrations\\20240905055838_adding roles.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T05:58:38.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 133,
+              "Title": "20240905055115_RemoveCreatedAtFromRoleTable.cs",
+              "DocumentMoniker": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject.DataAccess\\Migrations\\20240905055115_RemoveCreatedAtFromRoleTable.cs",
+              "RelativeDocumentMoniker": "MyProject.DataAccess\\Migrations\\20240905055115_RemoveCreatedAtFromRoleTable.cs",
+              "ToolTip": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject.DataAccess\\Migrations\\20240905055115_RemoveCreatedAtFromRoleTable.cs",
+              "RelativeToolTip": "MyProject.DataAccess\\Migrations\\20240905055115_RemoveCreatedAtFromRoleTable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T05:51:16.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 134,
+              "Title": "20240905054644_RemoveCreatedAtFromRoleTable.cs",
+              "DocumentMoniker": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject.DataAccess\\Migrations\\20240905054644_RemoveCreatedAtFromRoleTable.cs",
+              "RelativeDocumentMoniker": "MyProject.DataAccess\\Migrations\\20240905054644_RemoveCreatedAtFromRoleTable.cs",
+              "ToolTip": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject.DataAccess\\Migrations\\20240905054644_RemoveCreatedAtFromRoleTable.cs",
+              "RelativeToolTip": "MyProject.DataAccess\\Migrations\\20240905054644_RemoveCreatedAtFromRoleTable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T05:46:44.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 135,
+              "Title": "InMemoryTokenStorage.cs",
+              "DocumentMoniker": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject\\Core\\Token\\InMemoryTokenStorage.cs",
+              "RelativeDocumentMoniker": "MyProject\\Core\\Token\\InMemoryTokenStorage.cs",
+              "ToolTip": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject\\Core\\Token\\InMemoryTokenStorage.cs",
+              "RelativeToolTip": "MyProject\\Core\\Token\\InMemoryTokenStorage.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAgwBwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T11:37:57.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 136,
+              "Title": "MyProject.http",
+              "DocumentMoniker": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject\\MyProject.http",
+              "RelativeDocumentMoniker": "MyProject\\MyProject.http",
+              "ToolTip": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject\\MyProject.http",
+              "RelativeToolTip": "MyProject\\MyProject.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-08-30T10:44:21.843Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

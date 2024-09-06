@@ -1,0 +1,97 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject\\wwwroot\\images\\DOM-PERIGNON_20240905210307.png",
+      "PackagePath": "staticwebassets\\images\\DOM-PERIGNON_20240905210307.png"
+    },
+    {
+      "Id": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject\\wwwroot\\images\\DOM-PERIGNON_20240905210357.png",
+      "PackagePath": "staticwebassets\\images\\DOM-PERIGNON_20240905210357.png"
+    },
+    {
+      "Id": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject\\wwwroot\\images\\IMG_0173_20240905211224.jpeg",
+      "PackagePath": "staticwebassets\\images\\IMG_0173_20240905211224.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject\\wwwroot\\images\\IMG_0173_20240905211522.jpeg",
+      "PackagePath": "staticwebassets\\images\\IMG_0173_20240905211522.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject\\wwwroot\\images\\IMG_0173_20240905211548.jpeg",
+      "PackagePath": "staticwebassets\\images\\IMG_0173_20240905211548.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject\\wwwroot\\images\\IMG_0173_20240905211613.jpeg",
+      "PackagePath": "staticwebassets\\images\\IMG_0173_20240905211613.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject\\wwwroot\\images\\IMG_0173_20240905211621.jpeg",
+      "PackagePath": "staticwebassets\\images\\IMG_0173_20240905211621.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject\\wwwroot\\images\\Siglo-blanco_20240905092644.jpg",
+      "PackagePath": "staticwebassets\\images\\Siglo-blanco_20240905092644.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject\\wwwroot\\images\\Te mata Estate_20240905212336.jpeg",
+      "PackagePath": "staticwebassets\\images\\Te mata Estate_20240905212336.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject\\wwwroot\\images\\Vega Sicilia Único_20240905210521.jpg",
+      "PackagePath": "staticwebassets\\images\\Vega Sicilia Único_20240905210521.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject\\wwwroot\\images\\Vega Sicilia Único_20240905210531.jpg",
+      "PackagePath": "staticwebassets\\images\\Vega Sicilia Único_20240905210531.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject\\wwwroot\\images\\Vega Sicilia Único_20240905210601.jpg",
+      "PackagePath": "staticwebassets\\images\\Vega Sicilia Único_20240905210601.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject\\wwwroot\\images\\Vega Sicilia Único_20240905210701.jpg",
+      "PackagePath": "staticwebassets\\images\\Vega Sicilia Único_20240905210701.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject\\wwwroot\\images\\Vino-Vega-Sicilia-Único-1960_20240905210751.png",
+      "PackagePath": "staticwebassets\\images\\Vino-Vega-Sicilia-Único-1960_20240905210751.png"
+    },
+    {
+      "Id": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject\\wwwroot\\images\\Vino-Vega-Sicilia-Único-1960_20240905210810.png",
+      "PackagePath": "staticwebassets\\images\\Vino-Vega-Sicilia-Único-1960_20240905210810.png"
+    },
+    {
+      "Id": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject\\wwwroot\\images\\giorgio_20240905211804.jpeg",
+      "PackagePath": "staticwebassets\\images\\giorgio_20240905211804.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject\\wwwroot\\images\\montelliana_20240905211937.jpeg",
+      "PackagePath": "staticwebassets\\images\\montelliana_20240905211937.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject\\wwwroot\\images\\pirovano_20240905212124.jpeg",
+      "PackagePath": "staticwebassets\\images\\pirovano_20240905212124.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Nena\\source\\repos\\MyProject\\MyProject\\wwwroot\\images\\sassicaia_20240905210133.jpg",
+      "PackagePath": "staticwebassets\\images\\sassicaia_20240905210133.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.MyProject.Api.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.MyProject.Api.props",
+      "PackagePath": "build\\MyProject.Api.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.MyProject.Api.props",
+      "PackagePath": "buildMultiTargeting\\MyProject.Api.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.MyProject.Api.props",
+      "PackagePath": "buildTransitive\\MyProject.Api.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
